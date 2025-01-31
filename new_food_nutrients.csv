@@ -1,0 +1,651 @@
+﻿Food,Calories,Protein(g),Carbs(g),Fat(g),Category,Type_of_Diet,Disease_Help
+Apple,95,0.5,25,0.3,Fruit,Vegetarian,Heart Health
+Chicken Breast (grilled),165,31,0,3.6,Meat,High Protein,Weight Management
+Broccoli,55,3.7,11.2,0.6,Vegetable,Vegetarian,Immune Support
+Whole Wheat Bread,69,2.2,12.4,1,Grain,Vegetarian,Heart Health
+Salmon (baked),206,22,0,13,Fish,High Protein,Brain Health
+Lentils (cooked),230,18,40,1,Vegetarian,Vegan,Diabetes Management
+Tomato Soup,74,2,13,1.8,Soup,Vegetarian,Immune Support
+Almonds,7,3,6,14,Nuts,Vegetarian,Heart Health
+Quinoa (cooked),222,8,39,4,Grain,Vegetarian,Weight Management
+Greek Yogurt,59,10,3.6,0.4,Dairy,High Protein,Bone Health
+Orange,62,1.2,15,0.2,Fruit,Vegetarian,Immune Support
+Salad (Mixed Greens),20,1,4,0.2,Vegetable,Vegan,Weight Management
+Whole Grain Pasta (cooked),174,7,37,1,Grain,Vegetarian,Heart Health
+Salmon (smoked),130,17,0,6,Fish,High Protein,Brain Health
+Chickpeas (cooked),164,8,27,3,Vegetarian,Vegan,Diabetes Management
+Carrot Soup,45,1,10,0.3,Soup,Vegetarian,Eye Health
+Walnuts,185,4,4,18,Nuts,Vegetarian,Heart Health
+Brown Rice (cooked),215,5,45,1.6,Grain,Vegetarian,Weight Management
+Mango,60,0.8,15,0.4,Fruit,Vegetarian,Immune Support
+Spinach,23,2.9,3.6,0.4,Vegetable,Vegan,Bone Health
+Eggs (boiled),68,5.5,0.6,4.8,Dairy,High Protein,Brain Health
+Black Beans (cooked),114,7.6,20.4,0.5,Vegetarian,Vegan,Heart Health
+Oatmeal,154,3.4,27,2.2,Grain,Vegetarian,Weight Management
+Cauliflower (roasted),55,2.1,11,0.5,Vegetable,Vegan,Immune Support
+Avocado,160,2,9,15,Fruit,Vegetarian,Heart Health
+Tofu (grilled),144,15,3.9,8.2,Vegetarian,Vegan,Bone Health
+Pineapple,50,0.5,13,0.1,Fruit,Vegetarian,Immune Support
+Turkey Breast (roasted),135,30,0,1,Meat,High Protein,Weight Management
+Cabbage (steamed),22,1.3,5,0.1,Vegetable,Vegan,Heart Health
+Quinoa Salad,120,4,20,3,Grain,Vegetarian,Weight Management
+Sardines (canned),191,25,0,10,Fish,High Protein,Brain Health
+Kidney Beans (cooked),215,13,40,0.8,Vegetarian,Vegan,Diabetes Management
+Sweet Potato Soup,90,1,20,0.5,Soup,Vegetarian,Immune Support
+Cashews,155,5.1,9.2,12.4,Nuts,Vegetarian,Heart Health
+Spaghetti (whole wheat, cooked),174,7.5,37.2,1.3,Grain,Vegetarian
+Papaya,59,0.5,15,0.4,Fruit,Vegetarian,Immune Support
+Kale,33,2.9,6.7,0.6,Vegetable,Vegan,Bone Health
+Yogurt (plain),61,3.5,4.7,3.3,Dairy,High Protein,Gut Health
+Black-Eyed Peas (cooked),160,6.7,30.4,1,Vegetarian,Vegan,Heart Health
+Buckwheat Pancakes,154,5,33,1.3,Grain,Vegetarian,Weight Management
+Zucchini (grilled),17,1.4,3.1,0.2,Vegetable,Vegan,Heart Health
+Pistachios,156,6,8,12.7,Nuts,Vegetarian,Heart Health
+Wild Rice (cooked),166,6.5,35.4,0.6,Grain,Vegetarian,Weight Management
+Dragon Fruit,60,2,13,1,Fruit,Vegetarian,Immune Support
+Arugula,25,2.6,3.7,0.7,Vegetable,Vegan,Bone Health
+Eggs (scrambled),91,6.7,1.1,6.7,Dairy,High Protein,Brain Health
+Chickpea Salad,180,7,30,5,Vegetarian,Vegan,Diabetes Management
+Steel-Cut Oats,170,7,29,3,Grain,Vegetarian,Weight Management
+Peach,59,1.4,15,0.4,Fruit,Vegetarian,Immune Support
+Turkey Sandwich,320,20,40,8.5,Meat,Balanced Diet,Energy Boost
+Asparagus (roasted),32,3,6,0.4,Vegetable,Vegan,Bone Health
+Couscous Salad,180,6,35,2,Grain,Vegetarian,Weight Management
+Mackerel (grilled),250,28,0,15,Fish,High Protein,Heart Health
+Edamame (steamed),121,11,9,5,Vegetarian,Vegan,Bone Health
+Butternut Squash Soup,90,1,23,0.3,Soup,Vegetarian,Immune Support
+Pecans,196,2.6,4,20.4,Nuts,Vegetarian,Heart Health
+Rye Bread,83,2.7,15,0.9,Grain,Vegetarian,Heart Health
+Guava,68,2.6,14,0.9,Fruit,Vegetarian,Immune Support
+Beetroot Salad,43,1.6,9,0.2,Vegetable,Vegan,Heart Health
+Cottage Cheese,206,28,6,8,Dairy,High Protein,Bone Health
+Lima Beans (cooked),115,7,20,0.5,Vegetarian,Vegan,Diabetes Management
+Granola Bar,190,4,30,7,Grain,Vegetarian,Weight Management
+Brussels Sprouts (steamed),38,3,8,0.3,Vegetable,Vegan,Immune Support
+Brazil Nuts,182,4,3.3,18,Nuts,Vegetarian,Heart Health
+Barley (cooked),193,3.5,44,0.7,Grain,Vegetarian,Weight Management
+Dragon Fruit Smoothie,120,2,25,1.5,Fruit,Vegetarian,Immune Support
+Swiss Chard,19,1.6,3.7,0.2,Vegetable,Vegan,Bone Health
+Eggs Benedict,524,21,26,38,Dairy,High Protein,Brain Health
+Black Rice (cooked),215,5,45,1.6,Grain,Vegetarian,Weight Management
+Grapes,69,0.6,18,0.2,Fruit,Vegetarian,Immune Support
+Salmon Sushi Roll,200,10,30,5,Fish,High Protein,Brain Health
+Cucumber Salad,15,1,3,0.2,Vegetable,Vegan,Weight Management
+Farro (cooked),170,7,35,1,Grain,Vegetarian,Heart Health
+Trout (baked),195,22,0,12,Fish,High Protein,Heart Health
+Chia Seeds Pudding,160,5,15,10,Seed,Vegan,Weight Management
+Minestrone Soup,120,5,20,2,Soup,Vegetarian,Immune Support
+Macadamia Nuts,200,2,5,21,Nuts,Vegetarian,Heart Health
+Spelt Bread,82,3,15,1,Grain,Vegetarian,Heart Health
+Kiwi Smoothie,120,2,30,1,Fruit,Vegetarian,Immune Support
+Sweet Potato Fries,180,2,25,9,Vegetable,Vegan,Heart Health
+Cottage Cheese with Pineapple,230,28,15,4,Dairy,High Protein,Bone Health
+Black Lentils (cooked),140,13,30,0.5,Vegetarian,Vegan,Diabetes Management
+Trail Mix,180,4,20,10,Snack,Vegetarian,Energy Boost
+Roasted Cauliflower,45,2,10,0.5,Vegetable,Vegan,Immune Support
+Hazelnuts,180,4,5,17,Nuts,Vegetarian,Heart Health
+Buckwheat Noodles,155,5,32,1,Grain,Vegetarian,Weight Management
+Mango Sorbet,120,1,30,0,Fruit,Vegetarian,Immune Support
+Asparagus Salad,30,3,5,0.2,Vegetable,Vegan,Heart Health
+Egg White Omelette,150,25,2,4,Dairy,High Protein,Weight Management
+Wild Salmon,206,22,0,13,Fish,High Protein,Brain Health
+Pomegranate,83,1.7,18.7,1.2,Fruit,Vegetarian,Heart Health
+Shrimp Stir-Fry,230,30,15,7,Seafood,High Protein,Weight Management
+Artichoke (steamed),60,3.5,13,0.2,Vegetable,Vegan,Digestive Health
+Quinoa Bowl,300,12,50,8,Grain,Vegetarian,Weight Management
+Tuna Salad,220,20,2,15,Seafood,High Protein,Brain Health
+Hummus,25,2,2,2,Vegetarian,Vegan,Heart Health
+Chicken Noodle Soup,120,10,15,3,Soup,Low Carb,Immune Support
+Pistachio Nuts,160,6,8,13,Nuts,Vegetarian,Heart Health
+Sourdough Bread,120,4,25,1,Grain,Vegetarian,Heart Health
+Watermelon Salad,30,0.5,8,0.2,Fruit,Vegetarian,Hydration
+Eggplant (grilled),35,1,9,0.2,Vegetable,Vegan,Heart Health
+Greek Yogurt Parfait,180,15,20,5,Dairy,High Protein,Gut Health
+Pinto Beans (cooked),245,15,45,1,Vegetarian,Vegan,Diabetes Management
+Dark Chocolate,150,2,15,10,Dessert,Vegetarian,Heart Health
+Roasted Brussel Sprouts,50,3,11,0.5,Vegetable,Vegan,Immune Support
+Almond Butter,98,3.4,3,8.5,Nuts,Vegetarian,Heart Health
+Bulgur (cooked),151,5.6,34.6,0.4,Grain,Vegetarian,Weight Management
+Berry Smoothie,120,2,30,1,Fruit,Vegetarian,Immune Support
+Cucumber Rolls,40,2,8,0.5,Vegetable,Vegan,Weight Management
+Omelette with Spinach,180,18,2,10,Dairy,High Protein,Brain Health
+Halibut,180,24,0,8,Seafood,High Protein,Heart Health
+Kiwi,61,1.1,15,0.5,Fruit,Vegetarian,Immune Support
+Grilled Swordfish,200,25,0,10,Seafood,High Protein,Heart Health
+Spinach Salad,20,2.5,3,0.3,Vegetable,Vegan,Weight Management
+Buckwheat Pancakes,180,5,38,1.5,Grain,Vegetarian,Heart Health
+Tilapia (baked),170,21,0,9,Seafood,High Protein,Heart Health
+Chickpea Curry,220,9,34,6,Vegetarian,Vegan,Diabetes Management
+Tomato Basil Bruschetta,70,2,14,1.5,Appetizer,Vegan,Immune Support
+Walnut Salad,180,5,10,15,Nuts,Vegetarian,Heart Health
+Multigrain Bagel,250,12,50,2.5,Grain,Vegetarian,Heart Health
+Papaya Smoothie,100,1,25,0.5,Fruit,Vegetarian,Immune Support
+Zucchini Noodles,20,1,4,0.3,Vegetable,Vegan,Weight Management
+Cottage Cheese with Berries,180,20,15,3,Dairy,High Protein,Bone Health
+Black Quinoa (cooked),200,8,40,3,Grain,Vegetarian,Weight Management
+Fruit Salad,80,1,20,0.5,Fruit,Vegetarian,Immune Support
+Roasted Sweet Potatoes,90,1,20,0.2,Vegetable,Vegan,Heart Health
+Cashew Butter,94,3.7,8,6.5,Nuts,Vegetarian,Heart Health
+Barley Salad,120,4,25,1,Grain,Vegetarian,Weight Management
+Berry Parfait,150,3,30,2,Fruit,Vegetarian,Immune Support
+Stuffed Bell Peppers,200,8,30,5,Vegetarian,Vegan,Heart Health
+Mushroom Risotto,250,7,45,7,Grain,Vegetarian,Weight Management
+Dragon Fruit,60,2,13,1,Fruit,Vegetarian,Immune Support
+Grilled Tofu,150,15,5,8,Vegetarian,Vegan,Bone Health
+Cauliflower Rice,25,2,5,0.3,Vegetable,Vegan,Weight Management
+Quinoa and Black Bean Bowl,300,12,50,7,Vegetarian,Vegan,Diabetes Management
+Smoked Trout,180,22,0,9,Seafood,High Protein,Heart Health
+Chia Seed Pudding,160,5,15,10,Seed,Vegan,Weight Management
+Minestrone Soup,120,5,20,2,Soup,Vegetarian,Immune Support
+Mixed Nuts,200,5,7,15,Nuts,Vegetarian,Heart Health
+Whole Grain Baguette,180,5,40,1,Grain,Vegetarian,Heart Health
+Pineapple Smoothie,120,2,30,0.5,Fruit,Vegetarian,Immune Support
+Zoodles (Zucchini Noodles),20,1,4,0.3,Vegetable,Vegan,Weight Management
+Greek Yogurt with Honey,150,15,10,5,Dairy,High Protein,Gut Health
+Black-Eyed Pea Salad,180,8,30,4,Vegetarian,Vegan,Diabetes Management
+Trail Mix,200,5,20,10,Snack,Vegetarian,Energy Boost
+Roasted Brussels Sprouts,50,3,11,0.5,Vegetable,Vegan,Immune Support
+Pistachio Ice Cream,200,3,25,10,Dessert,Vegetarian,Heart Health
+Barley Risotto,220,5,45,5,Grain,Vegetarian,Weight Management
+Mixed Berry Smoothie,120,2,30,1,Fruit,Vegetarian,Immune Support
+Stuffed Mushrooms,120,5,15,4,Vegetarian,Vegan,Heart Health
+Pumpkin Soup,90,2,20,1,Soup,Vegetarian,Immune Support
+Mango,60,0.8,15,0.4,Fruit,Vegetarian,Immune Support
+Sesame-Crusted Tuna,200,25,5,10,Seafood,High Protein,Heart Health
+Brussels Sprouts Salad,40,3,8,0.5,Vegetable,Vegan,Weight Management
+Wild Rice Salad,150,3,30,2,Grain,Vegetarian,Heart Health
+Grilled Mackerel,220,22,0,15,Seafood,High Protein,Brain Health
+Vegan Lentil Stew,180,10,30,2,Vegetarian,Vegan,Diabetes Management
+Gazpacho,50,1,12,0.5,Soup,Vegetarian,Immune Support
+Mixed Seeds (Chia, Flax, Sunflower),160,5,10,12,Seed
+Whole Wheat English Muffin,120,5,25,1,Grain,Vegetarian,Heart Health
+Kiwi Sorbet,100,1,25,0.5,Fruit,Vegetarian,Immune Support
+Eggplant Parmesan,300,10,25,18,Vegetarian,Vegan,Heart Health
+Probiotic Yogurt,70,5,8,2,Dairy,High Protein,Gut Health
+Red Lentil Curry,250,15,40,3,Vegetarian,Vegan,Diabetes Management
+Mixed Dried Fruits,120,2,30,0.5,Snack,Vegetarian,Energy Boost
+Roasted Asparagus,30,3,5,0.2,Vegetable,Vegan,Immune Support
+Pecan Pie,300,4,30,20,Dessert,Vegetarian,Heart Health
+Whole Grain Tortilla,80,2,15,1,Grain,Vegetarian,Heart Health
+Berry Cobbler,200,2,40,5,Dessert,Vegetarian,Weight Management
+Stuffed Bell Peppers,150,7,25,2,Vegetarian,Vegan,Heart Health
+Butternut Squash Risotto,220,5,45,4,Grain,Vegetarian,Weight Management
+Cantaloupe,50,1,12,0.3,Fruit,Vegetarian,Immune Support
+Salmon Teriyaki,250,25,10,12,Seafood,High Protein,Heart Health
+Cabbage Slaw,35,1,8,0.2,Vegetable,Vegan,Weight Management
+Brown Rice Bowl,200,5,40,2,Grain,Vegetarian,Heart Health
+Baked Haddock,180,20,0,10,Seafood,High Protein,Heart Health
+Quinoa and Chickpea Salad,280,10,45,8,Vegetarian,Vegan,Diabetes Management
+Lentil Soup,120,7,20,1,Soup,Vegetarian,Immune Support
+Mixed Nuts and Berries,180,5,15,12,Snack,Vegetarian,Energy Boost
+Sourdough Pizza,220,8,30,9,Grain,Vegetarian,Heart Health
+Papaya Lassi,120,3,25,1,Fruit,Vegetarian,Immune Support
+Cauliflower Buffalo Bites,150,4,15,9,Vegetarian,Vegan,Heart Health
+Coconut Yogurt Parfait,180,5,20,10,Dairy,Vegan,Gut Health
+Black Bean Enchiladas,300,12,40,10,Vegetarian,Vegan,Diabetes Management
+Dried Mango Slices,120,2,30,0.5,Snack,Vegetarian,Energy Boost
+Grilled Eggplant,30,1,7,0.2,Vegetable,Vegan,Heart Health
+Avocado Chocolate Mousse,150,2,15,10,Dessert,Vegan,Heart Health
+Whole Wheat Pita,100,5,20,1,Grain,Vegetarian,Heart Health
+Mixed Berry Sorbet,120,1,30,0.5,Dessert,Vegetarian,Immune Support
+Stuffed Portobello Mushrooms,120,6,15,5,Vegetarian,Vegan,Heart Health
+Quinoa Stuffed Peppers,180,8,35,3,Grain,Vegetarian,Weight Management
+Chicken Curry,300,25,10,15,Meat,Balanced Diet,Energy Boost
+Biryani,500,20,50,25,Grain,Non-Vegetarian,Heart Health
+Paneer Tikka Masala,350,15,20,18,Dairy,Vegetarian,Immune Support
+Dal Tadka,200,10,20,10,Lentil,Vegetarian,Diabetes Management
+Aloo Gobi,180,5,25,8,Vegetable,Vegan,Weight Management
+Samosa,200,5,15,12,Snack,Vegetarian,Immune Support
+Butter Chicken,450,30,15,25,Meat,Balanced Diet,Energy Boost
+Rajma Chawal,350,15,45,10,Lentil,Vegetarian,Heart Health
+Dhokla,120,5,20,3,Snack,Vegan,Weight Management
+Bhindi Masala,80,3,12,4,Vegetable,Vegan,Diabetes Management
+Pav Bhaji,400,10,60,20,Vegetable,Vegetarian,Heart Health
+Fish Curry,300,20,15,18,Seafood,High Protein,Heart Health
+Vegetable Pulao,250,5,45,8,Grain,Vegetarian,Weight Management
+Mango Lassi,200,5,30,8,Beverage,Vegetarian,Immune Support
+Aam Ras,150,2,35,1,Dessert,Vegetarian,Energy Boost
+Kheer,180,4,30,6,Dessert,Vegetarian,Bone Health
+Gulab Jamun,150,2,25,8,Dessert,Vegetarian,Energy Boost
+Jalebi,250,3,40,10,Dessert,Vegetarian,Diabetes Management
+Kofta Curry,350,15,25,22,Meat,Balanced Diet,Energy Boost
+Pesarattu,200,10,30,5,Grain,Vegan,Weight Management
+Chole Bhature,500,15,40,25,Vegetarian,Non-Vegan,Heart Health
+Chicken Biryani,600,30,50,30,Meat,Non-Vegetarian,Energy Boost
+Masoor Dal,120,7,18,3,Vegetarian,Vegan,Diabetes Management
+Aloo Paratha,300,8,40,15,Vegetarian,Non-Vegan,Weight Management
+Bhindi Masala,80,3,12,4,Vegetarian,Vegan,Heart Health
+Pav Bhaji,400,10,60,20,Vegetarian,Non-Vegan,Immune Support
+Fish Curry,300,20,15,18,Seafood,Non-Vegetarian,Heart Health
+Pulao,250,5,45,8,Grain,Vegetarian,Weight Management
+Mango Lassi,200,5,30,8,Beverage,Vegetarian,Immune Support
+Aam Ras,150,2,35,1,Dessert,Vegetarian,Energy Boost
+Kheer,180,4,30,6,Dessert,Vegetarian,Bone Health
+Gulab Jamun,150,2,25,8,Dessert,Vegetarian,Energy Boost
+Jalebi,250,3,40,10,Dessert,Vegetarian,Diabetes Management
+Kofta Curry,350,15,25,22,Vegetarian,Non-Vegan,Energy Boost
+Bhindi Masala,80,3,12,4,Vegetarian,Vegan,Heart Health
+Pesarattu,200,10,30,5,Grain,Vegan,Weight Management
+Chana Masala,250,12,30,10,Vegetarian,Vegan,Diabetes Management
+Dosa,150,5,30,2,Grain,Vegetarian,Weight Management
+Samosa Chaat,300,8,40,15,Snack,Vegetarian,Heart Health
+Vegetable Biryani,400,10,45,15,Vegetarian,Non-Vegan,Heart Health
+Dhokla,120,5,20,3,Snack,Vegan,Weight Management
+Bhindi Masala,80,3,12,4,Vegetable,Vegan,Heart Health
+Pav Bhaji,400,10,60,20,Vegetable,Vegetarian,Heart Health
+Fish Curry,300,20,15,18,Seafood,Non-Vegetarian,Heart Health
+Vegetable Biryani,350,8,70,10,Grain,Vegetarian,Weight Management
+Masoor Dal,150,8,20,5,Lentil,Vegetarian,Diabetes Management
+Aloo Paratha,300,8,40,15,Bread,Vegetarian,Weight Management
+Butter Chicken,450,25,20,30,Meat,Non-Vegetarian,Energy Boost
+Rajma Chawal,350,10,45,15,Lentil,Vegetarian,Heart Health
+Paneer Tikka,250,20,10,15,Dairy,Vegetarian,Immune Support
+Chole Bhature,500,15,40,25,Grain,Non-Vegetarian,Heart Health
+Chicken Biryani,600,30,50,30,Grain,Non-Vegetarian,Energy Boost
+Samosa,200,5,15,12,Snack,Vegetarian,Immune Support
+Aloo Chaat,150,3,25,5,Snack,Vegetarian,Weight Management
+Raita,100,5,10,7,Dairy,Vegetarian,Gut Health
+Palak Paneer,250,15,20,15,Vegetable,Vegetarian,Heart Health
+Malai Kofta,350,12,25,20,Vegetarian,Non-Vegan,Energy Boost
+Baingan Bharta,150,3,20,10,Vegetable,Vegan,Heart Health
+Pani Puri,100,2,15,5,Snack,Vegan,Immune Support
+Tandoori Chicken,300,25,5,15,Meat,Non-Vegetarian,Heart Health
+Biryani,500,20,50,25,Main Course,Non-Vegetarian,Heart Health
+Masoor Dal,150,8,20,5,Lentil,Vegetarian,Diabetes Management
+Aloo Paratha,300,8,40,15,Bread,Vegetarian,Weight Management
+Butter Chicken,450,25,20,30,Main Course,Non-Vegetarian,Energy Boost
+Rajma Chawal,350,10,45,15,Lentil,Vegetarian,Heart Health
+Paneer Tikka,250,20,10,15,Dairy,Vegetarian,Immune Support
+Chole Bhature,500,15,40,25,Main Course,Non-Vegetarian,Heart Health
+Chicken Biryani,600,30,50,30,Main Course,Non-Vegetarian,Energy Boost
+Samosa,200,5,15,12,Snack,Vegetarian,Immune Support
+Aloo Gobi,180,5,25,8,Vegetable,Vegan,Weight Management
+Dhokla,120,5,20,3,Snack,Vegan,Weight Management
+Baingan Bharta,150,3,20,10,Vegetable,Vegan,Heart Health
+Pav Bhaji,400,10,60,20,Vegetable,Vegetarian,Heart Health
+Fish Curry,300,20,15,18,Seafood,Non-Vegetarian,Heart Health
+Vegetable Biryani,350,8,70,10,Main Course,Vegetarian,Weight Management
+Mango Lassi,200,5,30,8,Drink,Vegetarian,Immune Support
+Aam Ras,150,2,35,1,Drink,Vegetarian,Energy Boost
+Kheer,180,4,30,6,Dessert,Vegetarian,Bone Health
+Gulab Jamun,150,2,25,8,Dessert,Vegetarian,Energy Boost
+Jalebi,250,3,40,10,Dessert,Vegetarian,Diabetes Management
+Pani Puri,100,2,15,5,Snack,Vegan,Immune Support
+Tandoori Chicken,300,25,5,15,Meat,Non-Vegetarian,Heart Health
+Chana Masala,250,12,30,10,Vegetarian,Vegan,Diabetes Management
+Dosa,150,5,30,2,Grain,Vegetarian,Weight Management
+Samosa Chaat,300,8,40,15,Snack,Vegetarian,Heart Health
+Vegetable Biryani,400,10,45,15,Main Course,Vegetarian,Heart Health
+Chole Bhature,500,15,40,25,Main Course,Non-Vegetarian,Heart Health
+Chicken Biryani,600,30,50,30,Main Course,Non-Vegetarian,Energy Boost
+Mango Lassi,200,5,30,8,Drink,Vegetarian,Immune Support
+Bhutte Ka Kees,250,5,30,15,Vegetarian,Non-Vegan,Weight Management
+Kalaadi,200,15,10,12,Dairy,Vegetarian,Immune Support
+Khar,180,8,20,10,Main Course,Non-Vegan,Heart Health
+Litti Chokha,300,12,40,15,Main Course,Vegetarian,Diabetes Management
+Dhansak,350,20,30,18,Main Course,Non-Vegetarian,Energy Boost
+Gatte Ki Sabzi,280,10,25,15,Vegetarian,Vegan,Heart Health
+Kalaadi,200,15,10,12,Dairy,Vegetarian,Immune Support
+Panta Bhat,120,5,25,3,Main Course,Vegan,Weight Management
+Sorpotel,400,25,30,22,Main Course,Non-Vegetarian,Heart Health
+Undhiyu,300,10,40,15,Main Course,Vegetarian,Weight Management
+Malai Kofta,350,15,25,22,Vegetarian,Non-Vegan,Energy Boost
+Baingan Bharta,200,5,30,10,Vegetarian,Vegan,Heart Health
+Kadhi Chawal,300,8,40,15,Main Course,Vegetarian,Diabetes Management
+Rajasthani Dal Baati,400,12,50,18,Main Course,Vegetarian,Energy Boost
+Kheema Pav,350,20,25,22,Main Course,Non-Vegetarian,Heart Health
+Patra,250,8,30,12,Snack,Vegetarian,Weight Management
+Chapati Roll,200,10,25,10,Main Course,Vegetarian,Weight Management
+Mysore Pak,180,5,30,8,Dessert,Vegetarian,Energy Boost
+Poha,250,5,40,8,Main Course,Vegan,Weight Management
+Kalaadi,180,15,8,10,Dairy,Vegetarian,Immune Support
+Misal Pav,300,15,30,18,Main Course,Vegetarian,Heart Health
+Kofta Curry,350,12,25,20,Main Course,Vegetarian,Energy Boost
+Aloo Gobi,200,5,25,12,Vegetarian,Vegan,Weight Management
+Rogan Josh,400,20,30,25,Main Course,Non-Vegetarian,Heart Health
+Bhindi Masala,180,5,20,10,Vegetarian,Vegan,Heart Health
+Jodhpuri Kabuli,300,10,40,15,Main Course,Non-Vegetarian,Diabetes Management
+Kalaadi,200,15,10,12,Dairy,Vegetarian,Immune Support
+Dhokla,150,5,20,3,Snack,Vegan,Weight Management
+Tawa Pulao,250,8,35,10,Main Course,Vegetarian,Weight Management
+Keema Samosa,200,10,15,12,Snack,Non-Vegetarian,Immune Support
+Aloo Methi,200,5,30,10,Vegetarian,Vegan,Heart Health
+Murg Malaiwala,350,20,15,25,Main Course,Non-Vegetarian,Heart Health
+Navratan Korma,300,10,35,18,Main Course,Vegetarian,Diabetes Management
+Rasam,100,3,20,2,Soup,Vegetarian,Immune Support
+Bhutte Ka Kees,250,5,30,15,Vegetarian,Non-Vegan,Weight Management
+Gajar Ka Halwa,250,5,40,10,Dessert,Vegetarian,Energy Boost
+Bhindi Do Pyaza,180,4,25,8,Vegetarian,Vegan,Heart Health
+Khar,180,8,20,10,Main Course,Non-Vegan,Heart Health
+Dahi Vada,150,6,20,8,Snack,Vegetarian,Weight Management
+Bisi Bele Bath,350,10,45,15,Main Course,Vegetarian,Weight Management
+Bharwan Bhindi,180,5,25,8,Vegetarian,Vegan,Heart Health
+Kadai Paneer,300,15,20,18,Vegetarian,Non-Vegan,Diabetes Management
+Pav Bhaji,400,10,60,20,Main Course,Vegetarian,Heart Health
+Rajma Chawal,350,12,40,15,Main Course,Vegetarian,Weight Management
+Jhalmuri,200,5,30,10,Snack,Vegan,Weight Management
+Methi Thepla,150,5,20,7,Main Course,Vegan,Heart Health
+Shahi Tukda,250,5,30,12,Dessert,Vegetarian,Energy Boost
+Panta Bhat,120,5,25,3,Main Course,Vegan,Weight Management
+Gongura Mutton,400,20,25,30,Main Course,Non-Vegetarian,Heart Health
+Paneer Butter Masala,350,18,25,20,Main Course,Vegetarian,Energy Boost
+Bhindi Masala,180,4,25,8,Vegetarian,Vegan,Heart Health
+Palak Paneer,250,15,20,15,Vegetarian,Non-Vegan,Diabetes Management
+Khichdi,300,10,40,12,Main Course,Vegetarian,Weight Management
+Dhansak,350,20,30,18,Main Course,Non-Vegetarian,Energy Boost
+Kofta Curry,300,12,25,20,Main Course,Vegetarian,Energy Boost
+Pesarattu,200,10,30,5,Main Course,Vegan,Heart Health
+Kalaadi,200,15,10,12,Dairy,Vegetarian,Immune Support
+Aloo Baingan,200,5,30,10,Vegetarian,Vegan,Weight Management
+Vada Pav,250,5,30,15,Snack,Vegetarian,Weight Management
+Mango Rice,300,6,50,10,Main Course,Vegan,Heart Health
+Chettinad Chicken Curry,400,25,30,20,Main Course,Non-Vegetarian,Heart Health
+Rajasthani Laal Maas,450,30,20,25,Main Course,Non-Vegetarian,Energy Boost
+Hyderabadi Biryani,500,20,50,25,Main Course,Non-Vegetarian,Heart Health
+Puliyodarai (Tamarind Rice),350,8,60,15,Main Course,Vegan,Weight Management
+Bhuna Gosht,400,28,15,25,Main Course,Non-Vegetarian,Heart Health
+Aloo Parwal Sabzi,200,5,30,10,Vegetarian,Vegan,Weight Management
+Karela Sabzi,180,4,20,10,Vegetarian,Vegan,Diabetes Management
+Malabar Fish Curry,300,20,15,18,Seafood,Non-Vegetarian,Heart Health
+Murgh Makhani (Butter Chicken),450,25,20,30,Main Course,Non-Vegetarian,Energy Boost
+Rasam,100,3,20,2,Soup,Vegetarian,Immune Support
+Mysore Pak,200,5,30,8,Dessert,Vegetarian,Energy Boost
+Undhiyu,300,15,40,18,Main Course,Vegetarian,Weight Management
+Ragi Mudde,250,5,30,10,Main Course,Vegan,Heart Health
+Dhokla,150,5,20,3,Snack,Vegan,Weight Management
+Chapati Roll,200,10,25,10,Main Course,Vegetarian,Weight Management
+Kanji Vada,150,6,15,8,Snack,Vegetarian,Heart Health
+Kokum Saar,100,2,25,1,Drink,Vegan,Immune Support
+Gajar Ka Halwa,250,5,40,10,Dessert,Vegetarian,Energy Boost
+Pesarattu Upma,350,15,30,18,Grain,Vegetarian,Energy Boost
+Mutton Keema,250,20,15,18,Main Course,Non-Vegetarian,Heart Health
+Bhuna Bhindi,180,5,25,8,Vegetarian,Vegan,Heart Health
+Sarson Da Saag,220,10,25,12,Main Course,Vegetarian,Weight Management
+Rajma Galouti Kebab,180,15,10,15,Appetizer,Vegetarian,Energy Boost
+Chana Chaat,150,8,20,5,Snack,Vegan,Weight Management
+Baingan Patiala,200,6,30,12,Vegetarian,Vegan,Heart Health
+Chettinad Egg Curry,300,20,15,20,Main Course,Non-Vegetarian,Heart Health
+Khichdi Pakoda,250,10,30,12,Snack,Vegetarian,Diabetes Management
+Gobhi Musallam,220,8,25,15,Vegetarian,Vegan,Weight Management
+Methi Malai Murg,350,25,10,25,Main Course,Non-Vegetarian,Heart Health
+Nihari,400,28,20,30,Main Course,Non-Vegetarian,Energy Boost
+Besan Cheela,200,12,15,10,Main Course,Vegan,Weight Management
+Khar,180,8,20,10,Main Course,Non-Vegan,Heart Health
+Chingri Malai Curry,300,20,15,18,Seafood,Non-Vegetarian,Heart Health
+Rajasthani Gatte Ki Sabzi,250,12,20,15,Vegetarian,Vegan,Heart Health
+Bhuna Kukda,350,25,15,22,Main Course,Non-Vegetarian,Energy Boost
+Nargisi Kofta,300,18,25,20,Main Course,Vegetarian,Energy Boost
+Panta Bhat,120,5,25,3,Main Course,Vegan,Weight Management
+Gulab Jamun Kheer,200,4,30,6,Dessert,Vegetarian,Bone Health
+Jhinge Aloo Posto,180,5,25,8,Vegetarian,Vegan,Heart Health
+Chole Aloo Tikki,250,8,30,12,Snack,Vegan,Weight Management
+Dal Makhani,300,15,30,15,Main Course,Vegetarian,Energy Boost
+Mysore Rasam,100,3,20,2,Soup,Vegetarian,Immune Support
+Keema Samosa,200,10,15,12,Snack,Non-Vegetarian,Immune Support
+Murg Malai Tikka,200,18,5,15,Appetizer,Non-Vegetarian,Heart Health
+Dhokla Sandwich,180,6,30,8,Snack,Vegetarian,Weight Management
+Pindi Chana,250,12,20,18,Vegetarian,Vegan,Diabetes Management
+Andhra Chicken Curry,300,25,10,20,Main Course,Non-Vegetarian,Heart Health
+Gulab Jamun Shake,200,5,30,8,Drink,Vegetarian,Energy Boost
+Nimbu Pani,50,0,15,0,Drink,Vegan,Hydration
+Bhindi Do Pyaza,180,5,25,8,Vegetarian,Vegan,Heart Health
+Cholar Dal,220,10,30,12,Main Course,Vegan,Weight Management
+Kalaadi,200,15,10,12,Dairy,Vegetarian,Immune Support
+Kofta Curry,300,12,25,20,Main Course,Vegetarian,Energy Boost
+Lauki Kofta,250,10,25,15,Main Course,Vegetarian,Weight Management
+Biryani Pakora,180,8,20,10,Snack,Non-Vegetarian,Heart Health
+Aam Panna,100,1,25,0,Drink,Vegan,Hydration
+Palak Chaat,150,5,20,8,Snack,Vegan,Weight Management
+Poha Cutlet,200,8,25,10,Snack,Vegetarian,Weight Management
+Kachumber Salad,50,2,10,0,Salad,Vegan,Weight Management
+Pumpkin Halwa,250,3,40,10,Dessert,Vegetarian,Energy Boost
+Amritsari Fish,300,20,15,18,Appetizer,Non-Vegetarian,Heart Health
+Matar Kachori,180,6,20,10,Snack,Vegan,Weight Management
+Til Ladoo,200,5,30,10,Dessert,Vegetarian,Energy Boost
+Litti Chokha,300,12,40,15,Main Course,Vegetarian,Diabetes Management
+Khichu,100,2,20,5,Appetizer,Vegan,Weight Management
+Aloo Baingan,200,5,30,10,Vegetarian,Vegan,Weight Management
+Kalaadi,200,15,10,12,Dairy,Vegetarian,Immune Support
+Kadai Mushroom,180,8,15,12,Vegetarian,Non-Vegan,Energy Boost
+Rajasthani Gatte Ka Pulao,250,10,35,15,Main Course,Vegetarian,Weight Management
+Mutton Rogan Josh,300,22,18,20,Main Course,Non-Vegetarian,Heart Health
+Paneer Bhurji,200,15,10,15,Vegetarian,Non-Vegan,Diabetes Management
+Jeera Aloo,150,3,25,8,Vegetarian,Vegan,Weight Management
+Bhindi Masala,180,4,25,8,Vegetarian,Vegan,Heart Health
+Aloo Methi,150,3,20,7,Vegetarian,Vegan,Weight Management
+Gobhi Manchurian,220,5,30,12,Vegetarian,Non-Vegan,Diabetes Management
+Pani Puri,100,2,20,5,Snack,Vegan,Weight Management
+Keerai Kootu,120,5,15,5,Vegetarian,Vegan,Heart Health
+Gatte Ki Sabzi,250,12,20,15,Vegetarian,Vegan,Heart Health
+Kalaadi,200,15,10,12,Dairy,Vegetarian,Immune Support
+Aloo Baingan,200,5,30,10,Vegetarian,Vegan,Weight Management
+Lauki Kofta,250,10,25,15,Vegetarian,Non-Vegan,Diabetes Management
+Kadhi Pakora,200,8,15,12,Vegetarian,Non-Vegan,Energy Boost
+Bhutte Ka Kees,180,5,25,8,Vegetarian,Vegan,Heart Health
+Chana Masala,220,10,30,10,Vegetarian,Vegan,Weight Management
+Rajma Chawal,300,12,40,15,Main Course,Vegetarian,Weight Management
+Aloo Paratha,250,8,35,12,Main Course,Non-Vegan,Weight Management
+Khichdi,200,5,30,8,Main Course,Vegan,Weight Management
+Chole Bhature,350,15,40,20,Main Course,Vegetarian,Heart Health
+Dhokla Sandwich,150,5,25,8,Snack,Vegetarian,Weight Management
+Mutton Keema,200,18,10,15,Main Course,Non-Vegetarian,Heart Health
+Aloo Gobi,180,4,25,10,Vegetarian,Vegan,Weight Management
+Baingan Bharta,150,5,20,8,Vegetarian,Vegan,Heart Health
+Bhutte Ka Kees,200,8,25,10,Vegetarian,Vegan,Heart Health
+Dahi Puri,100,3,15,5,Snack,Vegetarian,Weight Management
+Pesarattu,120,5,20,3,Main Course,Vegan,Heart Health
+Palak Paneer,180,10,12,12,Vegetarian,Non-Vegan,Diabetes Management
+Vada Pav,250,5,30,15,Snack,Vegetarian,Weight Management
+Bisi Bele Bath,250,8,35,8,Main Course,Vegetarian,Weight Management
+Masoor Dal,150,8,20,5,Vegetarian,Vegan,Heart Health
+Aam Panna,80,2,15,0,Drink,Vegan,Hydration
+Kakdi Kachumber,50,2,10,0,Salad,Vegan,Weight Management
+Butter Chicken,350,25,15,20,Main Course,Non-Vegetarian,Heart Health
+Sarson Da Saag,180,8,20,12,Main Course,Vegetarian,Weight Management
+Mysore Pak,200,5,30,8,Dessert,Vegetarian,Energy Boost
+Panta Bhat,120,5,25,3,Main Course,Vegan,Weight Management
+Pani Puri,80,2,15,2,Snack,Vegan,Weight Management
+Bhuna Gosht,250,20,12,18,Main Course,Non-Vegetarian,Heart Health
+Rasam,80,3,15,2,Soup,Vegetarian,Immune Support
+Gajar Ka Halwa,200,5,40,10,Dessert,Vegetarian,Energy Boost
+Tawa Pulao,250,8,35,10,Main Course,Vegetarian,Weight Management
+Dhansak,300,20,25,15,Main Course,Non-Vegetarian,Heart Health
+Aloo Methi,150,4,20,7,Vegetarian,Vegan,Weight Management
+Baingan Patiala,180,6,30,10,Vegetarian,Vegan,Heart Health
+Chicken Sukka,250,20,12,15,Main Course,Non-Vegetarian,Energy Boost
+Gobi Manchurian,200,5,30,12,Vegetarian,Non-Vegan,Diabetes Management
+Jeera Rice,150,3,30,2,Main Course,Vegan,Weight Management
+Kadai Bhindi,180,5,25,8,Vegetarian,Vegan,Heart Health
+Pesarattu Upma,220,10,25,12,Main Course,Vegan,Weight Management
+Rava Dosa,180,5,25,10,Main Course,Vegan,Weight Management
+Samosa Chaat,250,6,30,12,Snack,Vegan,Weight Management
+Tandoori Roti,120,4,20,2,Main Course,Vegan,Weight Management
+Aloo Parwal Sabzi,200,5,30,10,Vegetarian,Vegan,Weight Management
+Bhutte Ka Kees,180,5,25,8,Vegetarian,Vegan,Heart Health
+Chapati Roll,200,8,25,10,Main Course,Vegetarian,Weight Management
+Dahi Ke Kebab,150,6,12,8,Snack,Vegetarian,Weight Management
+Egg Biryani,300,15,40,12,Main Course,Non-Vegetarian,Heart Health
+Fruit Chaat,100,2,25,0,Snack,Vegan,Weight Management
+Gajar Halwa,250,5,40,10,Dessert,Vegetarian,Energy Boost
+Hara Bhara Kebab,120,5,15,8,Appetizer,Vegetarian,Weight Management
+Idli Sambhar,150,5,25,2,Main Course,Vegan,Weight Management
+Jalebi,180,3,30,6,Dessert,Vegetarian,Energy Boost
+Kofta Curry,220,10,18,15,Main Course,Vegetarian,Energy Boost
+Lassi,120,3,20,2,Drink,Vegetarian,Hydration
+Mango Rice,250,5,40,8,Main Course,Vegan,Heart Health
+Nihari,300,25,15,20,Main Course,Non-Vegetarian,Energy Boost
+Pav Bhaji,250,5,40,15,Snack,Vegetarian,Weight Management
+Rajma Galouti Kebab,180,15,10,15,Appetizer,Vegetarian,Energy Boost
+Sheer Kurma,200,4,35,8,Dessert,Vegetarian,Energy Boost
+Aloo Baingan,180,5,30,8,Vegetarian,Vegan,Weight Management
+Dhokla Sandwich,150,5,25,8,Snack,Vegetarian,Weight Management
+Mutton Keema,200,18,10,15,Main Course,Non-Vegetarian,Heart Health
+Butter Chicken,350,25,15,20,Main Course,Non-Vegetarian,Heart Health
+Chana Masala,220,10,30,10,Vegetarian,Vegan,Weight Management
+Gulab Jamun,180,3,25,8,Dessert,Vegetarian,Energy Boost
+Kadai Mushroom,180,8,15,12,Vegetarian,Non-Vegan,Energy Boost
+Lemon Rice,200,3,40,5,Main Course,Vegan,Weight Management
+Bhindi Do Pyaza,180,5,25,8,Vegetarian,Vegan,Heart Health
+Rogan Josh,300,20,15,25,Main Course,Non-Vegetarian,Heart Health
+Tandoori Roti,120,4,20,2,Main Course,Vegan,Weight Management
+Fish Curry,300,20,15,18,Seafood,Non-Vegetarian,Heart Health
+Pesarattu Upma,220,10,25,12,Main Course,Vegan,Weight Management
+Chhole Bhature,350,15,40,20,Main Course,Vegetarian,Heart Health
+Bhuna Kukda,250,20,15,22,Main Course,Non-Vegetarian,Energy Boost
+Masala Dosa,200,5,30,10,Main Course,Vegan,Weight Management
+Dahi Puri,100,3,15,5,Snack,Vegetarian,Weight Management
+Keema Samosa,200,10,15,12,Snack,Non-Vegetarian,Immune Support
+Aloo Paratha,250,8,35,12,Main Course,Non-Vegan,Weight Management
+Kalaadi,200,15,10,12,Dairy,Vegetarian,Immune Support
+Biryani Pakora,180,8,20,10,Snack,Non-Vegetarian,Heart Health
+Aam Panna,80,2,15,0,Drink,Vegan,Hydration
+Kakdi Kachumber,50,2,10,0,Salad,Vegan,Weight Management
+Rava Dosa,180,5,25,10,Main Course,Vegan,Weight Management
+Veg Hakka Noodles,180,5,30,8,Main Course,Vegan,Weight Management
+Rajma Chawal,250,8,40,12,Main Course,Vegetarian,Weight Management
+Chettinad Chicken Curry,300,25,15,20,Main Course,Non-Vegetarian,Heart Health
+Samosa Chaat,200,6,25,10,Snack,Vegan,Weight Management
+Baingan Bharta,150,5,20,8,Main Course,Vegan,Heart Health
+Puri Bhaji,220,5,30,12,Main Course,Vegetarian,Weight Management
+Matar Paneer,180,10,15,12,Main Course,Vegetarian,Energy Boost
+Aloo Tikki,150,3,20,8,Snack,Vegan,Weight Management
+Butter Naan,200,5,25,8,Main Course,Vegetarian,Weight Management
+Tandoori Fish Tikka,250,20,10,15,Appetizer,Non-Vegetarian,Heart Health
+Malai Kofta,300,15,20,25,Main Course,Vegetarian,Diabetes Management
+Dahi Ke Sholay,180,6,12,15,Snack,Vegetarian,Weight Management
+Bhindi Masala,180,4,25,8,Main Course,Vegan,Heart Health
+Rasgulla,200,2,40,5,Dessert,Vegetarian,Energy Boost
+Vegetable Biryani,250,8,35,10,Main Course,Vegan,Weight Management
+Papdi Chaat,150,3,20,5,Snack,Vegan,Weight Management
+Kofta Biryani,300,10,40,15,Main Course,Vegan,Energy Boost
+Gulab Jamun Shake,200,5,30,8,Drink,Vegetarian,Energy Boost
+Dal Tadka,180,10,15,8,Main Course,Vegan,Weight Management
+Chole Kulche,220,8,25,10,Main Course,Vegan,Heart Health
+Dahi Vada,180,5,20,10,Snack,Vegetarian,Weight Management
+Chicken Korma,300,20,15,22,Main Course,Non-Vegetarian,Heart Health
+Kadhi Chawal,200,5,30,8,Main Course,Vegetarian,Weight Management
+Paneer Butter Masala,250,12,18,15,Main Course,Vegetarian,Energy Boost
+Aloo Gobi Masala,180,5,25,10,Vegetarian,Vegan,Weight Management
+Chicken Biryani,300,25,40,15,Main Course,Non-Vegetarian,Heart Health
+Masala Papad,100,3,10,5,Appetizer,Vegetarian,Weight Management
+Aloo Methi,150,4,20,7,Vegetarian,Vegan,Weight Management
+Dhokla Sandwich,150,5,25,8,Snack,Vegetarian,Weight Management
+Keema Naan,200,8,20,10,Main Course,Non-Vegetarian,Weight Management
+Paneer Bhurji,180,10,12,12,Main Course,Vegetarian,Diabetes Management
+Tandoori Chicken,250,20,5,15,Main Course,Non-Vegetarian,Heart Health
+Mushroom Matar,180,6,20,8,Vegetarian,Vegan,Heart Health
+Bhindi Masala,180,4,25,8,Vegetarian,Vegan,Heart Health
+Tomato Rasam,80,3,15,2,Soup,Vegetarian,Immune Support
+Chicken 65,200,15,10,12,Appetizer,Non-Vegetarian,Energy Boost
+Sarson Da Saag,180,8,20,12,Main Course,Vegetarian,Weight Management
+Kalaadi,200,15,10,12,Dairy,Vegetarian,Immune Support
+Vegetable Jalfrezi,220,8,30,10,Main Course,Vegetarian,Weight Management
+Aloo Parwal Sabzi,200,5,30,10,Vegetarian,Vegan,Weight Management
+Lamb Rogan Josh,300,20,15,20,Main Course,Non-Vegetarian,Heart Health
+Gobi Manchurian,200,5,30,12,Vegetarian,Non-Vegan,Diabetes Management
+Pav Bhaji,250,8,30,10,Main Course,Vegetarian,Weight Management
+Aloo Tikki Chaat,150,4,25,8,Snack,Vegetarian,Weight Management
+Mango Lassi,200,5,30,8,Drink,Vegetarian,Hydration
+Prawn Curry,300,25,15,18,Main Course,Non-Vegetarian,Heart Health
+Dal Tadka,180,10,15,8,Main Course,Vegan,Weight Management
+Gajar Ka Halwa,250,5,40,10,Dessert,Vegetarian,Energy Boost
+Palak Paneer,180,10,12,12,Vegetarian,Non-Vegan,Diabetes Management
+Bhindi Do Pyaza,180,5,25,8,Vegetarian,Vegan,Heart Health
+Kadai Paneer,200,12,15,15,Main Course,Vegetarian,Diabetes Management
+Tandoori Roti,120,4,20,2,Main Course,Vegan,Weight Management
+Hyderabadi Biryani,300,20,40,15,Main Course,Non-Vegetarian,Heart Health
+Dhansak,250,18,20,12,Main Course,Non-Vegetarian,Energy Boost
+Gajar Ka Halwa,200,5,40,10,Dessert,Vegetarian,Energy Boost
+Murg Malai Tikka,180,15,10,12,Appetizer,Non-Vegetarian,Heart Health
+Mango Pickle,50,1,10,2,Condiment,Vegan,Immune Support
+Chole Bhature,300,15,40,15,Main Course,Vegetarian,Heart Health
+Lauki Kofta,250,8,25,15,Vegetarian,Non-Vegan,Diabetes Management
+Vegetable Biryani,250,8,35,10,Main Course,Vegan,Weight Management
+Dahi Puri,100,3,15,5,Snack,Vegetarian,Weight Management
+Gobi Paratha,200,6,30,8,Main Course,Non-Vegan,Weight Management
+Rajma Galouti Kebab,180,15,10,15,Appetizer,Vegetarian,Energy Boost
+Chana Chaat,150,6,20,5,Snack,Vegan,Weight Management
+Dal Makhani,250,15,20,18,Main Course,Vegetarian,Heart Health
+Pani Puri,80,2,15,2,Snack,Vegan,Weight Management
+Butter Chicken,350,25,15,20,Main Course,Non-Vegetarian,Heart Health
+Vegetable Korma,200,8,15,15,Main Course,Vegetarian,Weight Management
+Baingan Bharta,150,5,20,8,Main Course,Vegan,Heart Health
+Kulfi,150,4,25,8,Dessert,Vegetarian,Energy Boost
+Bhutte Ka Kees,180,5,25,8,Vegetarian,Vegan,Heart Health
+Paneer Tikka,200,15,10,15,Appetizer,Vegetarian,Diabetes Management
+Mango Lassi,200,5,30,8,Drink,Vegetarian,Hydration
+Aloo Methi,150,4,20,7,Vegetarian,Vegan,Weight Management
+Mutton Rogan Josh,300,20,15,22,Main Course,Non-Vegetarian,Heart Health
+Pesarattu Upma,220,10,25,12,Main Course,Vegan,Weight Management
+Rava Kesari,200,3,35,6,Dessert,Vegetarian,Energy Boost
+Chicken Chettinad,320,25,10,18,Main Course,Non-Vegetarian,Heart Health
+Aamras Puri,250,2,40,10,Main Course,Vegetarian,Energy Boost
+Rajasthani Gatte Ki Sabzi,180,8,15,12,Vegetarian,Vegan,Weight Management
+Samosa Chaat,250,6,30,12,Snack,Vegan,Weight Management
+Kadai Mushroom,180,8,15,12,Vegetarian,Non-Vegan,Energy Boost
+Aloo Baingan,180,5,30,8,Vegetarian,Vegan,Weight Management
+Tandoori Roti,120,4,20,2,Main Course,Vegan,Weight Management
+Malai Kofta,300,15,20,25,Main Course,Vegetarian,Diabetes Management
+Palak Puri,150,3,25,6,Main Course,Vegetarian,Weight Management
+Chicken Saagwala,280,20,15,20,Main Course,Non-Vegetarian,Heart Health
+Mango Chutney,80,1,20,0,Condiment,Vegetarian,Immune Support
+Chana Masala,220,10,30,10,Vegetarian,Vegan,Weight Management
+Dhokla,120,5,20,3,Snack,Vegan,Weight Management
+Pav Bhaji,250,8,30,10,Main Course,Vegetarian,Weight Management
+Baingan Bharta,150,5,20,8,Main Course,Vegan,Heart Health
+Lemon Rice,200,3,40,5,Main Course,Vegan,Weight Management
+Kesar Pista Kulfi,180,5,30,8,Dessert,Vegetarian,Energy Boost
+Chicken Keema,250,18,10,15,Main Course,Non-Vegetarian,Heart Health
+Bhutte Ka Kees,180,5,25,8,Vegetarian,Vegan,Heart Health
+Dahi Puri,100,3,15,5,Snack,Vegetarian,Weight Management
+Poha,200,3,30,10,Main Course,Vegan,Weight Management
+Kaju Katli,180,5,30,8,Dessert,Vegetarian,Energy Boost
+Kadhi Pakora,150,6,15,8,Main Course,Vegetarian,Weight Management
+Kadai Bhindi,150,4,20,7,Vegetarian,Vegan,Weight Management
+Chicken Malai Tikka,280,22,12,15,Appetizer,Non-Vegetarian,Heart Health
+Rajasthani Dal Baati Churma,350,12,50,15,Main Course,Vegan,Weight Management
+Kothu Parotta,300,15,30,18,Main Course,Non-Vegetarian,Heart Health
+Pav Bhaji Pizza,250,8,25,12,Main Course,Vegetarian,Diabetes Management
+Tandoori Gobi,180,5,25,8,Appetizer,Vegetarian,Weight Management
+Chicken Kheema,280,20,15,18,Main Course,Non-Vegetarian,Heart Health
+Aloo Matar,150,4,25,6,Vegetarian,Vegan,Weight Management
+Rasam,80,3,15,2,Soup,Vegetarian,Immune Support
+Paneer Tikka Masala,250,15,20,12,Main Course,Vegetarian,Energy Boost
+Tamarind Rice,200,3,40,5,Main Course,Vegan,Weight Management
+Ghee Roast Dosa,180,4,30,10,Main Course,Vegetarian,Weight Management
+Aam Papad,120,2,25,1,Snack,Vegetarian,Energy Boost
+Bhuna Chicken,300,18,20,15,Main Course,Non-Vegetarian,Heart Health
+Pudina Chutney,50,1,10,2,Condiment,Vegan,Immune Support
+Aloo Paratha,250,8,35,12,Main Course,Non-Vegan,Weight Management
+Fish Tikka Masala,320,25,15,18,Main Course,Non-Vegetarian,Heart Health
+Moong Dal Halwa,300,5,40,15,Dessert,Vegetarian,Energy Boost
+Coconut Chutney,70,1,5,6,Condiment,Vegan,Immune Support
+Methi Thepla,200,5,30,8,Main Course,Vegan,Weight Management
+Chicken Vindaloo,280,20,15,18,Main Course,Non-Vegetarian,Heart Health
+Spinach Mushroom Curry,180,8,15,12,Main Course,Vegetarian,Diabetes Management
+Nariyal Ladoo,150,2,20,8,Dessert,Vegetarian,Energy Boost
+Chettinad Egg Curry,300,18,15,20,Main Course,Non-Vegetarian,Heart Health
+Avial,150,5,20,8,Main Course,Vegetarian,Vegan
+Dum Aloo,200,6,25,10,Main Course,Vegetarian,Diabetes Management
+Plain Lassi,100,3,15,5,Drink,Vegetarian,Hydration
+Coconut Water,50,1,10,0,Drink,Vegan,Hydration
+Masala Chai,80,2,10,4,Drink,Vegetarian,Energy Boost
+Lemonade,60,1,15,0,Drink,Vegan,Hydration
+Buttermilk,70,3,12,2,Drink,Vegetarian,Hydration
+Tomato Soup,70,2,15,1,Soup,Vegan,Immune Support
+Rasam,80,3,15,2,Soup,Vegetarian,Immune Support
+Mango Juice,120,1,30,0,Drink,Vegan,Energy Boost
+Watermelon,30,1,8,0,Fruit,Vegan,Hydration
+Banana,100,1,27,0,Fruit,Vegan,Energy Boost
+Guava,60,2,14,1,Fruit,Vegan,Immune Support
+Papaya,70,1,18,0,Fruit,Vegan,Digestive Health
+Pineapple,50,1,13,0,Fruit,Vegan,Immune Support
+Mango,80,1,20,0,Fruit,Vegan,Energy Boost
+Apple,95,1,25,0,Fruit,Vegan,Heart Health
+Orange,60,1,15,0,Fruit,Vegan,Immune Support
+Grapefruit,40,1,10,0,Fruit,Vegan,Weight Management
+Pomegranate,80,1,18,1,Fruit,Vegan,Heart Health
+Lime,20,0,7,0,Fruit,Vegan,Immune Support
+Cucumber Soup,40,1,8,1,Soup,Vegan,Hydration
+Mixed Fruit Salad,70,1,18,0,Fruit Salad,Vegan,Immune Support
+Mango Lassi,200,5,30,8,Drink,Vegetarian,Hydration

@@ -1,0 +1,541 @@
+id,age,height,weight,gender,goal,time,equipment,aerobic,strength_training,intensity
+1,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+2,48,180,80,Female,stay_fit,80,treadmill,Cycling,Weight Lifting,Intense
+3,34,162,58,Male,lose_weight,45,jump_rope,Cycling,Bodyweight,Moderate
+4,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+5,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+6,41,167,65,Female,lose_weight,90,stationary_bike,Cycling,Weight Machine,Intense
+7,31,158,52,Male,stay_fit,60,weight_machine,Running,Weight Lifting,Intense
+8,50,182,88,Female,build_muscle,75,swimming_pool,Swimming,Resistance Band,Intense
+9,28,167,70,Male,lose_weight,30,elliptical_machine,Cycling,Bodyweight,Low
+10,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+11,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+12,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+13,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+14,56,170,75,Female,build_muscle,90,barbell,Weight Lifting,Bodyweight,Intense
+15,29,172,68,Male,stay_fit,60,bodyweight_exercises,Dancing,Bodyweight,Intense
+16,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+17,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+18,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+19,25,170,65,Male,stay_fit,45,elliptical_machine,Cycling,Bodyweight,Moderate
+20,58,165,70,Female,lose_weight,120,yoga_mat,Running,Bodyweight,Intense
+21,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+22,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+23,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+24,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+25,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+26,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+27,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+28,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+29,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+30,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+31,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+32,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+33,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+34,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+35,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+36,45,168,72,Female,build_muscle,45,weight_machine,Running,Weight Lifting,Intense
+37,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+38,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+39,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+40,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+41,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+42,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+43,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+44,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+45,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+46,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+47,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+48,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+49,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+50,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+51,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+52,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+53,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+54,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+55,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+56,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+57,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+58,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+59,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+60,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+61,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+62,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+63,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+64,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+65,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+66,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+67,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+68,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+69,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+70,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+71,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+72,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+73,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+74,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+75,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+76,45,168,72,Female,build_muscle,45,weight_machine,Running,Weight Lifting,Intense
+77,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+78,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+79,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+80,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+81,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+82,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+83,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+84,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+85,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+86,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+87,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+88,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+89,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+90,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+91,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+92,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+93,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+94,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+95,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+96,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+97,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+98,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+99,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+100,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+101,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+102,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+103,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+104,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+105,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+106,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+107,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+108,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+109,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+110,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+111,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+112,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+113,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+114,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+115,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+116,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+117,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+118,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+119,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+120,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+121,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+122,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+123,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+124,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+125,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+126,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+127,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+128,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+129,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+130,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+131,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+132,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+133,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+134,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+135,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+136,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+137,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+138,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+139,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+140,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+141,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+142,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+143,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+144,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+145,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+146,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+147,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+148,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+149,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+150,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+151,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+152,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+153,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+154,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+155,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+156,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+157,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+158,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+159,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+160,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+161,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+162,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+163,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+164,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+165,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+166,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+167,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+168,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+169,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+170,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+171,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+172,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+173,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+174,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+175,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+176,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+177,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+178,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+179,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+180,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+181,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+182,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+183,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+184,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+185,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+186,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+187,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+188,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+189,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+190,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+191,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+192,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+193,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+194,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+195,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+196,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+197,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+198,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+199,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+200,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+201,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+202,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+203,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+204,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+205,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+206,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+207,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+208,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+209,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+210,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+211,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+212,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+213,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+214,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+215,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+216,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+217,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+218,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+219,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+220,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+221,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+222,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+223,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+224,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+225,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+226,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+227,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+228,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+229,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+230,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+231,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+232,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+233,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+234,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+235,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+236,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+237,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+238,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+239,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+240,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+241,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+242,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+243,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+244,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+245,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+246,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+247,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+248,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+249,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+250,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+251,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+252,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+253,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+254,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+255,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+256,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+257,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+258,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+259,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+260,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+261,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+262,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+263,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+264,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+265,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+266,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+267,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+268,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+269,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+270,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+271,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+272,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+273,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+274,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+275,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+276,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+277,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+278,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+279,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+280,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+281,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+282,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+283,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+284,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+285,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+286,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+287,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+288,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+289,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+290,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+291,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+292,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+293,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+294,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+295,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+296,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+297,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+298,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+299,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+300,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+301,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+302,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+303,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+304,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+305,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+306,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+307,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+308,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+309,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+310,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+311,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+312,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+313,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+314,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+315,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+316,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+317,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+318,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+319,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+320,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+321,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+322,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+323,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+324,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+325,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+326,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+327,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+328,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+329,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+330,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+331,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+332,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+333,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+334,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+335,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+336,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+337,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+338,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+339,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+340,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+341,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+342,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+343,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+344,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+345,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+346,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+347,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+348,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+349,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+350,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+351,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+352,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+353,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+354,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+355,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+356,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+357,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+358,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+359,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+360,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+361,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+362,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+363,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+364,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+365,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+366,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+367,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+368,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+369,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+370,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+371,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+372,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+373,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+374,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+375,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+376,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+377,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+378,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+379,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+380,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+381,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+382,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+383,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+384,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+385,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+386,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+387,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+388,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+389,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+390,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+391,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+392,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+393,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+394,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+395,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+396,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+397,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+398,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+399,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+400,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+401,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+402,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+403,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+404,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+405,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+406,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+407,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+408,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+409,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+410,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+411,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+412,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+413,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+414,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+415,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+416,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+417,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+418,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+419,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+420,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+421,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+422,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+423,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+424,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+425,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+426,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+427,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+428,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+429,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+430,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+431,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+432,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+433,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+434,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+435,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+436,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+437,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+438,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+439,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+440,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+441,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+442,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+443,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+444,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+445,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+446,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+447,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+448,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+449,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+450,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+451,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+452,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+453,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+454,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+455,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+456,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+457,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+458,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+459,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+460,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+461,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+462,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+463,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+464,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+465,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+466,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+467,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+468,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+469,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+470,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+471,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+472,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+473,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+474,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+475,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+476,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+477,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+478,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+479,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+480,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+481,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+482,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+483,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+484,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+485,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+486,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+487,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+488,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+489,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+490,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+491,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+492,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+493,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+494,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+495,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+496,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+497,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+498,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+499,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+500,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+501,27,175,70,Male,build_muscle,40,dumbbells,Cycling,Bodyweight,Moderate
+502,43,180,82,Female,stay_fit,50,treadmill,Running,Weight Lifting,Moderate
+503,32,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+504,47,175,78,Female,build_muscle,60,barbell,Jogging,Weight Lifting,Intense
+505,26,172,63,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+506,36,168,67,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+507,30,155,50,Male,stay_fit,30,weight_machine,Running,Weight Lifting,Moderate
+508,52,185,85,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+509,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+510,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+511,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+512,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+513,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+514,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+515,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+516,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+517,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+518,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+519,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+520,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate
+521,26,175,68,Male,build_muscle,45,dumbbells,Jogging,Weight Lifting,Moderate
+522,48,180,80,Female,stay_fit,50,treadmill,Cycling,Weight Lifting,Moderate
+523,34,162,58,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+524,53,168,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+525,29,170,72,Male,stay_fit,40,bodyweight_exercises,Dancing,Bodyweight,Moderate
+526,41,167,65,Female,lose_weight,45,stationary_bike,Cycling,Weight Machine,Moderate
+527,31,158,52,Male,stay_fit,35,weight_machine,Running,Weight Lifting,Moderate
+528,50,182,88,Female,build_muscle,55,swimming_pool,Swimming,Resistance Band,Intense
+529,28,167,70,Male,lose_weight,40,elliptical_machine,Cycling,Bodyweight,Low
+530,40,162,68,Female,stay_fit,50,yoga_mat,Running,Bodyweight,Moderate
+531,24,178,75,Male,build_muscle,60,dumbbells,Jogging,Weight Lifting,Intense
+532,44,175,80,Female,stay_fit,40,treadmill,Cycling,Bodyweight,Moderate
+533,34,160,55,Male,lose_weight,30,jump_rope,Cycling,Bodyweight,Low
+534,56,170,75,Female,build_muscle,60,barbell,Weight Lifting,Bodyweight,Intense
+535,29,172,68,Male,stay_fit,35,bodyweight_exercises,Dancing,Bodyweight,Moderate
+536,45,168,72,Female,build_muscle,75,weight_machine,Running,Weight Lifting,Intense
+537,33,175,80,Male,stay_fit,50,swimming_pool,Swimming,Resistance Band,Moderate
+538,39,160,55,Female,lose_weight,35,stationary_bike,Cycling,Bodyweight,Low
+539,25,170,65,Male,stay_fit,30,elliptical_machine,Cycling,Bodyweight,Low
+540,58,165,70,Female,lose_weight,40,yoga_mat,Running,Bodyweight,Moderate

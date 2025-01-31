@@ -1,0 +1,892 @@
+﻿food,calorie,protein,carbs,fat,Goals,Preferences,Restrictions,Sugar,Fiber,Sodium,Vitamins,Minerals,Minerals
+Chicken Breast,165,31,0,3.6,Weight loss,Protein-Rich Foods,Lactose intolerant,0.5,0,75,2,1,1
+Salmon,206,22,0,13,Muscle gain,Protein-Rich Foods,None,0,0,50,10,2,2
+Brown Rice,215,5,1.6,45,General health,Whole Grains,Gluten-free,0,3,0,1,3,3
+Broccoli,55,3.7,0.6,11,Weight loss,Vegetables,Lactose intolerant,1,2,30,3,2,2
+Almonds,7,0.3,0.6,0.6,Weight loss,Protein-Rich Foods,None,0.2,1,0,0,1,1
+Whole Wheat Bread,69,3,1,12,Muscle gain,Whole Grains,None,1,2,120,5,2,2
+Greek Yogurt,59,10,0.4,3,General health,Dairy,None,6,0,30,2,1,1
+Spinach,23,2.9,0.4,3,General health,Vegetables,None,0.4,2,20,4,2,2
+Apple,95,0.5,0.3,25,Weight loss,Fruits,Gluten-free,19,3,0,1,1,1
+Olive Oil,119,0,13.5,0,General health,None,None,0,0,0,0,0,0
+Quinoa,120,4,2,21,Muscle gain,Whole Grains,Gluten-free,0,2,0,0,1,1
+Banana,105,1.3,0.3,27,General health,Fruits,None,14,3,1,1,1,1
+Eggs,68,5.5,4.8,0.6,General health,Protein-Rich Foods,None,0.6,0,70,8,1,1
+Avocado,160,2,15,9,Weight loss,Fruits,None,0.7,4,14,2,1,1
+Cottage Cheese,206,28,9,6,Muscle gain,Dairy,Lactose intolerant,3,0,300,12,2,2
+Sweet Potato,112,2,0.2,26,General health,Whole Grains,None,6,4,50,10,1,1
+Turkey Breast,135,30,0,1,Weight loss,Protein-Rich Foods,None,0,0,50,0,2,2
+Tofu,144,15,3.9,8.2,General health,Vegetarian,None,0.1,1.5,6,10,1,1
+Quinoa Salad,180,4,29,6,Muscle gain,Whole Grains,Gluten-free,2,4.2,10,2,2,2
+Blueberries,57,0.7,14.5,0.3,General health,Fruits,None,9.7,2.4,1,9,1,1
+Salad Greens,5,0.5,1,0,Weight loss,Vegetables,None,0.1,0.5,5,70,1,1
+Peanut Butter,188,8,6,16,Muscle gain,Protein-Rich Foods,None,3,2,147,0,2,2
+Mango,60,0.8,15,0.4,General health,Fruits,None,14.6,1.6,1,11,1,1
+Chickpeas,164,8.9,27,2.6,Muscle gain,Protein-Rich Foods,Vegetarian,4.8,7.6,13,2,2,2
+Yogurt Parfait,210,12,36,3.5,Muscle gain,Dairy,None,24,2,80,15,1,1
+Cauliflower Rice,25,2,5,0.2,Weight loss,Vegetables,None,1.9,2.7,30,0,2,2
+Lentils,230,18,40,1,Muscle gain,Vegetarian,None,2,16,2,9,2,2
+Salmon Salad,280,25,8,18,Weight loss,Protein-Rich Foods,None,2,3,30,15,2,2
+Oatmeal,150,5,27,2,Muscle gain,Whole Grains,None,1,4,0,15,2,2
+Cucumber,16,0.7,3.6,0.2,Weight loss,Vegetables,None,1.9,0.5,2,2,1,1
+Pineapple,50,0.5,13,0.1,General health,Fruits,None,9.9,1.4,1,47,1,1
+Cottage Cheese Wrap,300,25,30,10,Muscle gain,Dairy,None,3,1.5,420,20,2,2
+Kale,33,2.9,6.7,0.5,Weight loss,Vegetables,None,1.3,1.3,29,68,2,2
+Ground Turkey,220,26,0,12,Weight loss,Protein-Rich Foods,None,0,0,80,0,2,2
+Quinoa Bowl,320,14,54,6,Muscle gain,Whole Grains,Gluten-free,2,8,15,6,2,2
+Carrot Sticks,41,0.9,10,0.2,General health,Vegetables,None,4.7,2.8,69,5,1,1
+Shrimp Stir Fry,200,25,12,8,Weight loss,Protein-Rich Foods,None,2,3,450,15,2,2
+Pumpkin Seeds,180,9,7,14,Muscle gain,Protein-Rich Foods,None,0.3,1.1,7,2,1,1
+Mushroom Risotto,320,8,56,8,General health,Vegetarian,None,1,3,600,10,2,2
+Grapes,69,0.6,18,0.2,General health,Fruits,None,15,0.9,2,3,1,1
+Tuna Salad Wrap,250,20,15,12,Weight loss,Protein-Rich Foods,None,1,2,400,10,2,2
+Chia Pudding,150,4,12,9,Weight loss,Whole Grains,Vegetarian,8,10,50,0,2,2
+Green Beans,31,1.8,7,0.1,Weight loss,Vegetables,None,1,3.4,6,16,2,2
+Cottage Cheese Pancakes,280,25,20,10,Muscle gain,Dairy,None,3,1,350,15,2,2
+Barley Salad,220,5,45,2,General health,Whole Grains,Vegetarian,0.5,8,15,3,2,2
+Kiwi,61,1.1,15,0.5,General health,Fruits,None,9,2.1,2,92,1,1
+Turkey Burger,250,28,5,13,Weight loss,Protein-Rich Foods,None,1,1.5,350,8,2,2
+Quiche,320,14,18,22,General health,Dairy,None,1,1,400,20,2,2
+Black Beans,120,7,22,1,Muscle gain,Vegetarian,None,0,7.5,1,0,2,2
+Orange,62,1.2,16,0.2,General health,Fruits,None,12,3.1,0,89,1,1
+Grilled Chicken Salad,180,25,8,6,Weight loss,Protein-Rich Foods,None,3,2,300,15,2,2
+Hummus,70,2,8,4,General health,Vegetarian,None,0,2.6,180,1,1,1
+Cabbage Slaw,45,1.2,11,0.1,Weight loss,Vegetables,None,4.5,2.9,20,32,2,2
+Milk,103,8,12,2.4,Muscle gain,Dairy,Lactose intolerant,12,0,102,22,2,2
+Spaghetti Squash,31,1,7,0.6,General health,Vegetarian,None,1,2.2,17,2,1,1
+Papaya,43,0.5,11,0.4,General health,Fruits,None,8.3,1.7,8,20,1,1
+Tofu Stir-Fry,180,16,12,8,General health,Vegetarian,None,2,3,500,15,2,2
+Walnuts,185,4.3,3.9,18,Muscle gain,Nuts,None,0.7,1.9,0,0,2,2
+Pasta Primavera,250,8,50,2,General health,Whole Grains,Vegetarian,2,8,10,6,1,1
+Dragon Fruit,60,1,13,1,General health,Fruits,None,9,3,2,9,1,1
+Salmon Sushi Roll,300,15,40,10,Weight loss,Protein-Rich Foods,None,4,2,600,10,2,2
+Quinoa Salad Bowl,280,9,40,8,General health,Whole Grains,Vegetarian,1,6,15,2,2,2
+Asparagus,20,2.2,3.7,0.2,Weight loss,Vegetables,None,1.8,2,0,16,2,2
+Almond Milk,13,1,0.5,1,Muscle gain,Nuts,Lactose intolerant,0,1,50,25,2,2
+Couscous Salad,180,5,35,1.5,General health,Whole Grains,Vegetarian,1,3,10,2,1,1
+Mango Smoothie,120,2,30,0.6,General health,Fruits,None,23,3,5,21,1,1
+Pecans,196,2.6,3.9,20,Muscle gain,Nuts,None,1.1,2.7,0,0,2,2
+Eggplant Parmesan,220,12,14,14,General health,Vegetarian,None,6,6,450,12,2,2
+Grapefruit,52,0.6,13,0.2,Weight loss,Fruits,None,8,1.6,0,23,1,1
+Chicken Caesar Salad,350,30,10,20,Weight loss,Protein-Rich Foods,None,2,3,700,20,2,2
+Buckwheat Pancakes,210,6,42,2,General health,Whole Grains,None,7,4,300,2,1,1
+Zucchini,17,1.2,3.1,0.2,Weight loss,Vegetables,None,1.2,1,8,21,1,1
+Coconut Milk,230,2,5,24,Muscle gain,Nuts,None,0,1,20,0,2,2
+Chickpea Curry,250,12,45,5,General health,Vegetarian,None,6,12,700,10,2,2
+Paprika,19,0.9,3.7,0.9,General health,Spices,None,1.4,2.7,4,25,2,2
+Eggplant Stir-Fry,120,2,26,1,Weight loss,Vegetarian,None,6,8,200,10,2,2
+Hazelnuts,176,4.2,5.1,17.7,Muscle gain,Nuts,None,1.5,2.7,0,0,2,2
+Cauliflower Pizza,280,12,40,9,General health,Vegetarian,None,2,7,600,8,2,2
+Berries Mix,70,1,17,0.5,General health,Fruits,None,8,6.5,0,16,1,1
+Turkey Wrap,220,20,15,8,Weight loss,Protein-Rich Foods,None,3,2,450,15,2,2
+Buckwheat Salad,200,5,40,2,General health,Whole Grains,None,3,8,150,6,1,1
+Snap Peas,41,2.5,8,0.2,Weight loss,Vegetables,None,3.4,2.6,5,38,2,2
+Coconut Water,46,0.9,8.9,0.5,Muscle gain,Fruits,None,6,2.6,252,7,2,2
+Lentil Soup,150,9,28,1,General health,Vegetarian,None,1,7,600,10,2,2
+Pomegranate,83,1.7,18.7,1,General health,Fruits,None,9.2,4,3,10,1,1
+Cabbage Roll,150,10,20,3,Weight loss,Vegetarian,None,5,6,300,15,2,2
+Pistachios,160,6,8,13,Muscle gain,Nuts,None,2,3,0,0,2,2
+Vegetable Curry,220,6,40,5,General health,Vegetarian,None,8,9,450,20,2,2
+Clementine,35,0.6,8.3,0.2,General health,Fruits,None,7.9,1.3,1,48,1,1
+Grilled Shrimp Salad,180,22,10,7,Weight loss,Protein-Rich Foods,None,2,3,250,15,2,2
+Wild Rice Bowl,280,7,56,2,General health,Whole Grains,None,0,6,10,0,2,2
+Brussels Sprouts,38,3,8,0.3,Weight loss,Vegetables,None,1.9,3.3,16,42,2,2
+Coconut Yogurt,120,2,15,5,Muscle gain,Dairy,Lactose intolerant,9,0,15,10,1,1
+Chickpea Salad Wrap,220,9,40,4,General health,Vegetarian,None,5,10,300,15,2,2
+Blueberry Smoothie,120,2,30,0.5,General health,Fruits,None,20,3,5,21,1,1
+Stir-Fried Tofu,180,16,10,12,Weight loss,Vegetarian,None,2,4,300,8,2,2
+Macadamia Nuts,200,2.2,4,21,Muscle gain,Nuts,None,1.5,2.4,0,0,2,2
+Egg Fried Rice,250,8,45,5,General health,Whole Grains,None,1,3,600,10,2,2
+Passion Fruit,68,2.2,17,0.5,General health,Fruits,None,16,5.4,10,50,1,1
+Grilled Turkey Breast,170,30,1,4,Weight loss,Protein-Rich Foods,None,0,0,100,10,2,2
+Millet Salad,210,7,40,3,General health,Whole Grains,None,2,5,200,8,1,1
+Artichoke,47,3.3,10,0.2,Weight loss,Vegetables,None,1,5.4,94,15,2,2
+Coconut Oil,120,0,0,14,Muscle gain,Fats,None,0,0,0,0,0,0
+Black Bean Burger,220,15,30,4,General health,Vegetarian,None,2,7,400,15,2,2
+Raspberry Smoothie,90,1,22,0.5,General health,Fruits,None,15,5,5,35,1,1
+Chickpea Spinach Curry,220,8,35,5,General health,Vegetarian,None,7,10,500,15,2,2
+Sunflower Seeds,200,7,7,17,Muscle gain,Nuts,None,1.5,3.9,1,0,2,2
+Caprese Salad,180,12,5,13,Weight loss,Dairy,None,2,2,350,20,2,2
+Papaya Salad,90,1.3,22,0.5,General health,Fruits,None,11,2.5,20,45,1,1
+Shrimp Scampi,220,25,6,11,Weight loss,Protein-Rich Foods,None,1,1,350,10,2,2
+Farro Bowl,240,10,48,1.5,General health,Whole Grains,None,1,8,10,2,2,2
+Radish,16,0.7,3.4,0.1,Weight loss,Vegetables,None,1.9,1.6,39,16,2,2
+Avocado Toast,200,4,14,15,Muscle gain,Fats,None,1,7,200,6,2,2
+Mushroom Risotto,300,9,45,8,General health,Vegetarian,None,2,3,500,15,2,2
+Strawberry Banana Smoothie,120,1,30,0.5,General health,Fruits,None,20,4,5,30,1,1
+Lentil Stir-Fry,180,8,30,4,Weight loss,Vegetarian,None,4,10,250,15,2,2
+Brazil Nuts,190,4,3.5,19,Muscle gain,Nuts,None,0.7,2.1,0,0,2,2
+Quinoa Stuffed Bell Peppers,260,9,45,5,General health,Whole Grains,Vegetarian,6,9,400,20,2,2
+Watermelon,30,0.6,8,0.2,General health,Fruits,None,6,0.4,1,10,1,1
+Grilled Salmon Salad,200,25,10,8,Weight loss,Protein-Rich Foods,None,2,3,300,15,2,2
+Bulgur Pilaf,180,6,35,1,General health,Whole Grains,None,0.5,8,10,2,1,1
+Cucumber Salad,25,0.8,5.4,0.3,Weight loss,Vegetables,None,1.5,1,5,16,2,2
+Almond Butter,190,6,6,16,Muscle gain,Nuts,None,3,3,0,0,2,2
+Chickpea Buddha Bowl,240,10,35,7,General health,Vegetarian,None,5,10,400,10,2,2
+Pineapple Coconut Smoothie,100,1,25,0.5,General health,Fruits,None,18,2,5,20,1,1
+Sweet Potato Curry,220,6,40,3,General health,Vegetarian,None,8,7,500,20,2,2
+Pine Nuts,190,3.5,3.7,19,Muscle gain,Nuts,None,1,1,0,0,2,2
+Egg Fried Quinoa,230,10,30,7,General health,Whole Grains,None,1,5,550,12,2,2
+Melon,45,0.9,11,0.2,General health,Fruits,None,9,0.9,5,27,1,1
+Grilled Chicken Wrap,280,30,15,10,Weight loss,Protein-Rich Foods,None,3,2,450,15,2,2
+Barley Salad Bowl,220,5,45,2,General health,Whole Grains,Vegetarian,0.5,8,15,3,2,2
+Zucchini Noodles,30,2,5,0.3,Weight loss,Vegetables,None,1.8,1,10,16,2,2
+Cashew Butter,190,5,8,16,Muscle gain,Nuts,None,2,2,0,0,2,2
+Chickpea Fajita Bowl,260,12,40,5,General health,Vegetarian,None,5,10,400,10,2,2
+Mango Pineapple Smoothie,110,1,28,0.5,General health,Fruits,None,20,2,5,30,1,1
+Quinoa Stir-Fry,200,8,35,5,Weight loss,Vegetarian,None,3,8,350,10,2,2
+Pecan Nuts,196,2.6,3.9,20,Muscle gain,Nuts,None,1.1,2.7,0,0,2,2
+Cauliflower Rice Bowl,180,5,40,2,General health,Vegetarian,None,2,5,300,8,2,2
+Dragon Fruit Bowl,80,2,18,0.5,General health,Fruits,None,12,5,2,15,1,1
+Grilled Shrimp Skewers,160,22,5,8,Weight loss,Protein-Rich Foods,None,1,1,300,10,2,2
+Millet Porridge,220,5,45,2,General health,Whole Grains,None,1,7,200,15,2,2
+Broccoli Salad,35,3,6,0.4,Weight loss,Vegetables,None,1,2.5,30,65,2,2
+Pistachio Butter,180,5,6,15,Muscle gain,Nuts,None,2,3,0,0,2,2
+Chickpea Stir-Fry,240,10,35,6,General health,Vegetarian,None,5,9,400,15,2,2
+Papaya Smoothie Bowl,120,2,30,0.5,General health,Fruits,None,18,3,5,25,1,1
+Sweet Potato Bowl,250,6,50,3,General health,Vegetarian,None,8,10,450,20,2,2
+Hazelnut Butter,180,4,3,18,Muscle gain,Nuts,None,1,2,0,0,2,2
+Spaghetti Squash Pasta,180,5,40,2,General health,Whole Grains,Vegetarian,1,5,10,2,1,1
+Apple Slices,52,0.3,14,0.2,Weight loss,Fruits,None,10,2,0,1,1,1
+Grilled Turkey Burger,200,25,2,10,Weight loss,Protein-Rich Foods,None,0,0,80,15,2,2
+Buckwheat Pancake Stack,220,7,45,1.5,General health,Whole Grains,None,5,3,200,2,2,2
+Cabbage Slaw Bowl,60,1.5,15,0.2,Weight loss,Vegetables,None,4,3,10,35,2,2
+Almond Yogurt,100,3,15,3,Muscle gain,Dairy,Lactose intolerant,8,1,50,10,1,1
+Lentil Veggie Bowl,230,15,40,2,General health,Vegetarian,None,4,10,500,12,2,2
+Mixed Berry Smoothie,110,2,25,0.5,General health,Fruits,None,18,3,5,20,1,1
+Chickpea Avocado Salad,220,8,35,7,General health,Vegetarian,None,5,9,350,18,2,2
+Walnut Butter,200,4.5,3,18,Muscle gain,Nuts,None,1,2,0,0,2,2
+Cauliflower Gnocchi,190,5,35,1,General health,Vegetarian,None,2,8,300,15,2,2
+Grapes,69,0.6,18,0.2,General health,Fruits,None,15,0.9,2,47,1,1
+Grilled Chicken Skewers,180,26,3,8,Weight loss,Protein-Rich Foods,None,0,0,100,15,2,2
+Quinoa Breakfast Bowl,240,8,45,4,General health,Whole Grains,None,1,7,300,6,1,1
+Zucchini Fritters,120,5,15,6,Weight loss,Vegetables,None,2,3,250,10,2,2
+Cashew Milk,60,1,8,3,Muscle gain,Nuts,Lactose intolerant,5,0.5,80,0,2,2
+Chickpea Tomato Curry,250,12,30,5,General health,Vegetarian,None,8,10,450,20,2,2
+Berry Chia Pudding,150,3,20,7,General health,Fruits,None,10,8,5,15,1,1
+Spinach Quinoa Salad,180,6,30,5,General health,Vegetarian,None,3,7,350,20,2,2
+Sun-Dried Tomato Pesto,160,2,6,16,Muscle gain,Nuts,None,2,3,300,2,1,1
+Cauliflower Pizza,220,8,30,9,General health,Vegetarian,None,2,5,400,15,2,2
+Pineapple,50,0.5,13,0.1,General health,Fruits,None,9,1.4,1,79,1,1
+Turkey and Veggie Stir-Fry,200,24,8,9,Weight loss,Protein-Rich Foods,None,2,2,350,10,2,2
+Quinoa Buddha Bowl,240,9,40,6,General health,Whole Grains,Vegetarian,1,8,200,10,2,2
+Cucumber Rolls,30,1,6,0.5,Weight loss,Vegetables,None,1.5,1,10,25,2,2
+Coconut Cream,120,1,1,13,Muscle gain,Nuts,None,1,0,15,0,2,2
+Chickpea Spinach Curry,250,12,35,6,General health,Vegetarian,None,6,9,400,15,2,2
+Blueberry Acai Bowl,130,2,30,1,General health,Fruits,None,15,5,10,25,1,1
+Chickpea and Quinoa Bowl,230,9,38,5,General health,Vegetarian,None,4,9,300,15,2,2
+Cashew Hummus,180,6,10,14,Muscle gain,Nuts,None,1,3,350,2,1,1
+Spaghetti Squash Stir-Fry,190,5,40,2,General health,Vegetarian,None,2,6,250,10,2,2
+Orange Slices,62,1.2,15,0.2,General health,Fruits,None,12,2.3,1,63,1,1
+Salmon Salad with Avocado,220,24,10,10,Weight loss,Protein-Rich Foods,None,1,2,300,15,2,2
+Millet Porridge Bowl,250,7,50,2,General health,Whole Grains,None,1,8,200,12,2,2
+Grilled Eggplant,40,2,8,0.5,Weight loss,Vegetables,None,1.5,3,10,15,2,2
+Hazelnut Milk,80,2,1,7,Muscle gain,Nuts,Lactose intolerant,6,0.5,50,2,2,2
+Chickpea and Spinach Stew,220,11,30,4,General health,Vegetarian,None,5,8,400,18,2,2
+Mixed Berry Parfait,150,3,25,4,General health,Fruits,None,15,5,5,30,1,1
+Quinoa and Black Bean Bowl,250,10,45,4,General health,Vegetarian,None,2,10,400,18,2,2
+Almond Pesto,160,3,5,14,Muscle gain,Nuts,None,1.5,2,250,6,1,1
+Zucchini Noodles with Pesto,180,5,15,12,General health,Vegetarian,None,2,5,350,10,2,2
+Kiwi Slices,61,1.1,14,0.5,General health,Fruits,None,9,2.1,2,51,1,1
+Grilled Turkey and Veggie Wrap,220,26,10,8,Weight loss,Protein-Rich Foods,None,3,2,400,15,2,2
+Farro and Vegetable Salad,210,6,40,3,General health,Whole Grains,None,1,7,300,8,2,2
+Cauliflower and Broccoli Soup,45,3,8,0.5,Weight loss,Vegetables,None,2,3,250,15,2,2
+Coconut Water,46,0.9,8.9,0.5,Muscle gain,Fruits,None,6,2.6,252,7,2,2
+Chickpea and Tomato Pasta,240,12,30,5,General health,Vegetarian,None,8,10,450,20,2,2
+Mixed Fruit Smoothie,110,2,25,0.5,General health,Fruits,None,18,3,5,25,1,1
+Chickpea and Kale Salad,200,8,30,7,General health,Vegetarian,None,5,8,350,20,2,2
+Peanut Butter,190,8,6,16,Muscle gain,Nuts,None,2,3,150,0,1,1
+Mushroom and Spinach Risotto,220,7,45,4,General health,Vegetarian,None,1,5,400,15,2,2
+Pear Slices,57,0.6,15,0.2,General health,Fruits,None,9,3.1,0,1,1,1
+Grilled Chicken and Quinoa Bowl,240,28,15,9,Weight loss,Protein-Rich Foods,None,1,2,350,12,2,2
+Brown Rice and Vegetable Stir-Fry,200,5,40,2,General health,Whole Grains,Vegetarian,2,6,300,10,2,2
+Cucumber and Tomato Salad,30,1,6,0.3,Weight loss,Vegetables,None,1,1.5,15,20,2,2
+Oat Milk,80,1,15,1,Muscle gain,Nuts,Lactose intolerant,5,1,50,15,2,2
+Lentil and Quinoa Stew,230,13,30,5,General health,Vegetarian,None,6,9,400,18,2,2
+Banana and Berry Smoothie,120,2,30,0.5,General health,Fruits,None,20,4,5,25,1,1
+Quinoa and Chickpea Salad,220,10,35,5,General health,Vegetarian,None,4,8,300,15,2,2
+Cashew and Basil Pesto,170,4,7,15,Muscle gain,Nuts,None,1.5,2,200,8,1,1
+Sweet Potato Noodles,190,3,45,1,General health,Vegetarian,None,2,6,250,10,2,2
+Mango Slices,60,0.6,15,0.4,General health,Fruits,None,13,1.6,0,60,1,1
+Grilled Salmon and Asparagus,240,30,8,12,Weight loss,Protein-Rich Foods,None,1,2,400,18,2,2
+Quinoa and Vegetable Stir-Fry,210,7,40,3,General health,Whole Grains,Vegetarian,1,7,350,10,2,2
+Tomato and Cucumber Salsa,25,1,5,0.2,Weight loss,Vegetables,None,1,2,20,15,2,2
+Hazelnut Milk,80,2,1,7,Muscle gain,Nuts,Lactose intolerant,6,0.5,50,2,2,2
+Chickpea and Spinach Pasta,240,12,30,5,General health,Vegetarian,None,7,10,450,20,2,2
+Pineapple and Mango Smoothie,110,1,28,0.5,General health,Fruits,None,18,3,5,20,1,1
+Whole Wheat Bread,80,3,15,1,General health,Whole Grains,None,1,3,150,2,1,1
+Milk,120,8,12,5,General health,Dairy,Lactose intolerant,10,0,120,30,2,2
+Strawberry Jam,50,0,12,0,General health,Sweets,None,10,0.5,5,0,0,0
+Peanut Butter Sandwich,300,10,30,15,General health,Protein-Rich Foods,None,3,5,350,2,1,1
+Banana,105,1.3,27,0.3,General health,Fruits,None,14,3.1,1,22,1,1
+Grilled Chicken Burger,350,25,30,15,Weight loss,Protein-Rich Foods,None,3,2,400,15,2,2
+Vegetarian Pizza,250,10,35,8,General health,Vegetarian,None,2,5,350,10,2,2
+Eggs,70,6,1,5,General health,Protein-Rich Foods,None,0.6,0,70,10,2,2
+Avocado Toast,200,4,15,15,General health,Fats,None,1,7,200,6,2,2
+Orange Juice,110,1,26,0.5,General health,Fruits,None,21,0.5,5,50,1,1
+Oatmeal,150,5,27,2.5,General health,Whole Grains,None,0,4,0,10,2,2
+Mango Smoothie,120,2,30,0.5,General health,Fruits,None,18,3,5,20,1,1
+Chicken Sandwich,300,20,30,12,Weight loss,Protein-Rich Foods,None,3,2,400,15,2,2
+Cheese Pizza,280,12,36,10,General health,Dairy,None,2,2,350,15,2,2
+Apple,95,0.5,25,0.3,General health,Fruits,None,19,3.7,0,14,0.1,0.1
+Pasta with Tomato Sauce,200,7,40,1,General health,Vegetarian,None,5,3,300,8,2,2
+Yogurt,150,8,12,8,General health,Dairy,Lactose intolerant,10,0,100,30,2,2
+Scrambled Eggs,140,14,1,9,General health,Protein-Rich Foods,None,0.6,0,140,15,2,2
+Peanut Butter and Jelly Sandwich,350,10,45,15,General health,Sweets,None,15,3,300,0,1,1
+Green Salad,50,2,10,0.5,Weight loss,Vegetables,None,2,3,50,20,2,2
+Brown Rice,215,5,45,1.6,General health,Whole Grains,None,0,3.5,10,2,2,2
+Coffee,2,0.3,0,0.1,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Cheese Sandwich,320,15,30,15,Weight loss,Dairy,None,2,2,400,15,2,2
+Margherita Pizza,220,10,25,10,General health,Vegetarian,None,2,3,300,12,1,1
+Grapes,69,0.6,18,0.2,General health,Fruits,None,15,0.9,2,47,1,1
+Spaghetti Bolognese,300,15,40,10,General health,Protein-Rich Foods,None,5,3,350,10,2,2
+Milkshake,200,5,30,8,General health,Dairy,Lactose intolerant,20,1,150,25,1,1
+Hard-Boiled Eggs,68,5,0.6,5,General health,Protein-Rich Foods,None,0.6,0,62,15,2,2
+Peanut Butter Toast,180,7,20,10,Muscle gain,Nuts,None,2,3,150,0,1,1
+Vegetable Stir-Fry,120,5,20,3,Weight loss,Vegetables,None,4,5,200,15,2,2
+Salmon Sushi Roll,220,15,25,10,General health,Seafood,None,2,3,300,15,2,2
+Green Tea,0,0,0,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Turkey and Cheese Wrap,300,20,25,15,Weight loss,Dairy,None,2,3,400,10,2,2
+Vegetarian Calzone,250,12,30,8,General health,Vegetarian,None,3,4,350,10,2,2
+Apple Slices with Peanut Butter,180,5,20,10,Muscle gain,Nuts,None,8,4,50,2,2,2
+Vegetable Lasagna,280,15,30,12,General health,Vegetarian,None,5,6,400,20,2,2
+Iced Coffee,30,0.5,5,0,General health,Beverages,Caffeine sensitive,5,0,10,0,0,0
+Greek Yogurt Parfait,200,15,20,8,General health,Dairy,Lactose intolerant,12,2,100,25,2,2
+Cottage Cheese with Pineapple,150,14,10,6,General health,Dairy,None,10,0,180,15,2,2
+Grilled Cheese Sandwich,320,15,30,15,Weight loss,Dairy,None,2,2,400,15,2,2
+Baked Chicken Breast,165,31,0,3.6,General health,Protein-Rich Foods,None,0,0,70,0,2,2
+Green Smoothie,100,2,25,0.5,General health,Fruits,None,15,5,10,50,1,1
+Classic Hamburger,300,15,30,15,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Caprese Salad,150,8,10,10,General health,Vegetarian,None,3,2,200,15,2,2
+Orange,62,1.2,15,0.2,General health,Fruits,None,12,2.3,1,63,1,1
+Quinoa Salad,200,7,35,5,General health,Whole Grains,Vegetarian,2,5,250,10,2,2
+Iced Tea,5,0,1,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Plain Yogurt,100,10,5,5,General health,Dairy,Lactose intolerant,5,0,50,30,2,2
+Peanut Butter and Banana Sandwich,350,10,45,15,General health,Sweets,None,15,3,300,0,1,1
+Caesar Salad,250,15,10,18,Weight loss,Vegetables,None,2,4,300,20,2,2
+Grilled Salmon,200,22,0,13,General health,Seafood,None,0,0,50,0,2,2
+Black Coffee,2,0.2,0,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Turkey Club Sandwich,350,25,20,18,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Margherita Flatbread,220,8,30,8,General health,Vegetarian,None,2,3,300,12,1,1
+Grapes,69,0.6,18,0.2,General health,Fruits,None,15,0.9,2,47,1,1
+Vegetable Stir-Fry,150,5,25,5,Weight loss,Vegetables,None,3,4,200,20,2,2
+Iced Lemonade,80,0,20,0,General health,Beverages,None,18,0,10,10,0,0
+Almond Milk,60,1,1,5,General health,Nuts,Lactose intolerant,0,1,50,30,2,2
+Banana Smoothie,120,1,30,0.5,General health,Fruits,None,18,3,5,25,1,1
+Peanut Butter Toast,180,7,20,10,Muscle gain,Nuts,None,2,3,150,0,1,1
+Roast Chicken,250,30,0,15,General health,Protein-Rich Foods,None,0,0,80,0,2,2
+Espresso,1,0.1,0,0,General health,Beverages,Caffeine sensitive,0,0,1,0,0,0
+BLT Sandwich,400,15,30,25,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Vegetarian Wrap,280,12,35,10,General health,Vegetarian,None,2,4,350,12,1,1
+Apple,95,0.5,25,0.3,General health,Fruits,None,19,3.7,0,14,0.1,0.1
+Quinoa Bowl,300,10,40,12,General health,Whole Grains,Vegetarian,2,6,250,10,2,2
+Iced Latte,60,1,6,3,General health,Beverages,Caffeine sensitive,6,0,20,0,0,0
+Coconut Milk,80,1,1,7,General health,Nuts,Lactose intolerant,0,0,20,10,2,2
+Fruit Salad,120,1,30,0.5,General health,Fruits,None,22,4,5,30,1,1
+Grilled Cheese,230,10,20,15,General health,Dairy,None,2,1,300,20,2,2
+Grilled Shrimp,120,20,2,5,General health,Seafood,None,0,0,200,0,2,2
+Iced Green Tea,5,0,1,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Caesar Wrap,350,15,25,22,Weight loss,Protein-Rich Foods,None,3,2,400,15,2,2
+Margherita Panini,300,10,30,15,General health,Vegetarian,None,2,3,300,12,1,1
+Banana,95,1.3,25,0.3,General health,Fruits,None,14,3.1,1,22,1,1
+Brown Rice Bowl,250,8,40,5,General health,Whole Grains,Vegetarian,2,6,300,10,2,2
+Iced Chai Latte,80,1,10,4,General health,Beverages,Caffeine sensitive,8,0,30,0,0,0
+Almond Butter,180,7,5,15,General health,Nuts,None,1,3,0,0,1,1
+Greek Salad,200,10,15,15,General health,Vegetarian,None,4,3,300,20,2,2
+Cheese Quesadilla,320,15,30,15,General health,Dairy,None,2,2,400,15,2,2
+Grilled Tofu,180,15,10,12,General health,Vegetarian,None,2,5,300,10,2,2
+Black Tea,2,0.2,0.5,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Chicken Caesar Salad,280,20,15,18,Weight loss,Protein-Rich Foods,None,3,4,400,15,2,2
+Mushroom Risotto,220,6,40,5,General health,Vegetarian,None,1,4,350,8,2,2
+Pear,57,0.6,15,0.2,General health,Fruits,None,12,3.1,0,1,1,1
+Quinoa and Black Bean Burrito,300,12,45,8,General health,Whole Grains,Vegetarian,2,7,350,15,2,2
+Iced Mocha,120,1,20,5,General health,Beverages,Caffeine sensitive,12,1,20,0,0,0
+Cashew Butter,160,5,8,14,General health,Nuts,None,1,2,0,0,2,2
+Caprese Pizza,250,12,30,10,General health,Vegetarian,None,2,3,350,12,1,1
+Turkey and Cheese Quesadilla,280,20,15,18,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Salmon Fillet,220,25,0,13,General health,Seafood,None,0,0,60,0,2,2
+Iced Latte,60,1,6,3,General health,Beverages,Caffeine sensitive,6,0,20,0,0,0
+Chicken Avocado Wrap,320,20,25,15,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Margherita Pizza,280,12,30,12,General health,Vegetarian,None,2,3,350,12,1,1
+Apple,95,0.5,25,0.3,General health,Fruits,None,19,3.7,0,14,0.1,0.1
+Quinoa and Vegetable Stir-Fry,200,5,40,2,General health,Whole Grains,Vegetarian,2,6,300,10,2,2
+Iced Americano,5,0.5,1,0,General health,Beverages,Caffeine sensitive,0,0,10,0,0,0
+Coconut Oil,120,0,0,14,General health,Fats,None,0,0,0,0,0,0
+Greek Salad,180,8,12,12,General health,Vegetarian,None,4,3,300,20,2,2
+Grilled Cheese Sandwich,320,15,30,15,Weight loss,Dairy,None,2,2,400,15,2,2
+Grilled Chicken Salad,180,25,10,8,Weight loss,Protein-Rich Foods,None,3,4,350,15,2,2
+Iced Chamomile Tea,0,0,0,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Turkey and Swiss Sandwich,350,20,30,15,Weight loss,Protein-Rich Foods,None,3,2,400,15,2,2
+Vegetarian Margherita Flatbread,240,8,35,7,General health,Vegetarian,None,2,3,300,12,1,1
+Banana,105,1.3,27,0.3,General health,Fruits,None,14,3.1,1,22,1,1
+Quinoa and Chickpea Bowl,280,10,40,9,General health,Whole Grains,Vegetarian,2,7,350,15,2,2
+Iced Rooibos Tea,0,0,0,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Olive Oil,120,0,0,14,General health,Fats,None,0,0,0,0,0,0
+Caesar Salad,200,10,15,15,General health,Vegetarian,None,4,3,300,20,2,2
+Cheese and Tomato Panini,300,12,30,15,General health,Dairy,None,2,3,300,12,1,1
+Grilled Salmon Salad,250,30,15,12,Weight loss,Seafood,None,3,5,400,15,2,2
+Iced Herbal Tea,5,0,1,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Chicken Caesar Wrap,320,22,20,15,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Vegetarian Margherita Pizza,280,12,30,10,General health,Vegetarian,None,2,3,350,12,1,1
+Pear,57,0.6,15,0.2,General health,Fruits,None,12,3.1,0,1,1,1
+Quinoa and Black Bean Salad,220,8,35,5,General health,Whole Grains,Vegetarian,2,7,350,15,2,2
+Iced Peppermint Tea,0,0,0,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Avocado,160,2,9,15,General health,Fats,None,0.7,6.7,10,4,2,2
+Greek Chicken Salad,200,25,10,8,Weight loss,Protein-Rich Foods,None,3,4,350,15,2,2
+Tomato and Mozzarella Panini,300,14,25,15,General health,Dairy,None,2,3,300,12,1,1
+Baked Chicken Thighs,200,22,0,12,Weight loss,Protein-Rich Foods,None,0,0,80,0,2,2
+Iced Matcha Latte,50,1,10,1,General health,Beverages,Caffeine sensitive,10,2,10,0,0,0
+Turkey Club Salad,300,20,15,18,Weight loss,Protein-Rich Foods,None,3,4,400,15,2,2
+Vegetarian Margherita Pasta,250,10,30,8,General health,Vegetarian,None,2,3,300,12,1,1
+Banana,105,1.3,27,0.3,General health,Fruits,None,14,3.1,1,22,1,1
+Quinoa and Vegetable Wrap,280,12,35,9,General health,Whole Grains,Vegetarian,2,6,350,10,2,2
+Iced Hibiscus Tea,5,0,1,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Coconut Water,45,0.5,11,0,General health,Beverages,None,6,0,25,5,2,2
+Caesar Chicken Wrap,320,25,20,15,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Mushroom and Swiss Panini,280,12,25,14,General health,Dairy,None,2,3,300,12,1,1
+Grilled Tuna Steak,180,25,1,8,Weight loss,Seafood,None,0,0,60,0,2,2
+Iced Lemon Tea,10,0,3,0,General health,Beverages,Caffeine sensitive,2,0,5,0,0,0
+Chicken Avocado Salad,280,20,15,18,Weight loss,Protein-Rich Foods,None,3,4,400,15,2,2
+Vegetarian Margherita Sandwich,250,10,30,8,General health,Vegetarian,None,2,3,300,12,1,1
+Apple,95,0.5,25,0.3,General health,Fruits,None,19,3.7,0,14,0.1,0.1
+Quinoa and Lentil Bowl,220,12,35,4,General health,Whole Grains,Vegetarian,1,6,300,15,2,2
+Iced Ginger Tea,5,0,1,0,General health,Beverages,Caffeine sensitive,1,0,5,0,0,0
+Olive Tapenade,80,1,5,6,General health,Fats,None,0,2,150,2,2,2
+Greek Chicken Gyro,300,25,15,15,Weight loss,Protein-Rich Foods,None,3,2,400,15,2,2
+Caprese Panini,280,12,25,14,General health,Dairy,None,2,3,300,12,1,1
+Roasted Turkey Breast,150,30,0,3,Weight loss,Protein-Rich Foods,None,0,0,60,0,2,2
+Iced Peach Tea,15,0,4,0,General health,Beverages,Caffeine sensitive,3,0,5,0,0,0
+Chicken Caesar Bowl,320,22,20,15,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Margherita Flatbread Sandwich,250,10,30,8,General health,Vegetarian,None,2,3,300,12,1,1
+Pear,57,0.6,15,0.2,General health,Fruits,None,12,3.1,0,1,1,1
+Quinoa and Chickpea Salad,220,8,35,5,General health,Whole Grains,Vegetarian,2,7,350,15,2,2
+Iced Lavender Tea,5,0,1,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Almond Butter,180,7,5,15,General health,Nuts,None,1,2,0,0,2,2
+Greek Chicken Wrap,300,25,15,12,Weight loss,Protein-Rich Foods,None,3,4,350,15,2,2
+Caprese Pasta Salad,280,12,25,14,General health,Dairy,None,2,3,300,12,1,1
+Baked Cod Fish,120,25,0,2,Weight loss,Seafood,None,0,0,50,0,2,2
+Iced Berry Tea,10,0,3,0,General health,Beverages,Caffeine sensitive,2,0,5,0,0,0
+Chicken Caesar Wrap,300,22,20,15,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Margherita Pizza,280,12,30,12,General health,Vegetarian,None,2,3,350,12,1,1
+Banana,105,1.3,27,0.3,General health,Fruits,None,14,3.1,1,22,1,1
+Quinoa and Vegetable Stir-Fry,220,8,35,5,General health,Whole Grains,Vegetarian,2,7,350,15,2,2
+Iced Peppermint Tea,5,0,1,0,General health,Beverages,Caffeine sensitive,0,0,5,0,0,0
+Olive Oil,120,0,0,14,General health,Fats,None,0,0,0,0,0,0
+Chicken Caesar Salad,200,25,10,8,Weight loss,Protein-Rich Foods,None,3,4,350,15,2,2
+Caprese Panini,280,12,25,14,General health,Dairy,None,2,3,300,12,1,1
+Chana Masala,150,7,25,5,General health,Vegetarian,None,3,6,300,10,2,2
+Masoor Dal,120,9,20,2,General health,Vegetarian,None,1,8,200,5,1,1
+Chicken Biryani,300,20,30,15,Weight loss,Protein-Rich Foods,None,2,3,400,10,2,2
+Vegetable Pulao,250,5,40,8,General health,Vegetarian,None,2,5,300,8,2,2
+Mango Lassi,150,5,30,2,General health,Beverages,None,25,1,20,10,1,1
+Palak Paneer,200,15,10,12,Weight loss,Vegetarian,None,3,5,350,15,2,2
+Tandoori Roti,100,3,15,2,General health,Whole Grains,Vegetarian,0,2,150,0,0,0
+Coconut Chutney,50,1,5,3,General health,Vegetarian,None,1,2,100,0,1,1
+Gulab Jamun,200,2,30,10,General health,Sweets,None,20,1,10,2,0,0
+Aloo Gobi,180,5,20,10,General health,Vegetarian,None,3,4,250,15,1,1
+Rice(Steamed),150,3,30,1,General health,Whole Grains,None,0,1,0,0,0,0
+Dal Tadka,120,8,15,5,General health,Vegetarian,None,1,5,250,5,1,1
+Roti,80,2,15,1,General health,Whole Grains,Vegetarian,0,2,100,0,0,0
+Aloo Paratha,250,5,30,12,General health,Vegetarian,None,1,3,200,10,1,1
+Paneer Bhurji,200,15,10,12,Weight loss,Vegetarian,None,2,4,300,15,2,2
+Cucumber Raita,50,2,6,2,General health,Vegetarian,None,3,1,50,2,1,1
+Chapati,70,2,12,1,General health,Whole Grains,Vegetarian,0,1,80,0,0,0
+Baingan Bharta,120,5,15,6,General health,Vegetarian,None,2,4,200,10,1,1
+Masala Chai,50,1,8,2,General health,Beverages,Caffeine sensitive,5,1,10,2,0,0
+Samosa,150,3,20,7,General health,Snacks,None,1,2,200,2,1,1
+Khichdi,200,6,30,5,General health,Vegetarian,None,1,6,300,5,1,1
+Bhindi Masala,120,3,15,7,General health,Vegetarian,None,2,4,200,10,1,1
+Poha,150,3,30,2,General health,Vegetarian,None,1,3,150,2,1,1
+Rajma Chawal,250,10,40,5,General health,Vegetarian,None,2,8,300,8,2,2
+Curd Rice,180,5,25,6,General health,Vegetarian,None,4,2,100,2,1,1
+Aloo Matar,160,4,20,8,General health,Vegetarian,None,2,3,250,10,1,1
+Jalebi,250,2,40,10,General health,Sweets,None,30,1,5,0,1,1
+Dosa,120,2,25,2,General health,Vegetarian,None,0,2,80,0,0,0
+Mango,60,1,15,0.3,General health,Fruits,None,12,2,0,45,1,1
+Lassi,100,3,15,3,General health,Beverages,None,10,0,30,2,1,1
+Chapati,80,2,15,1,General health,Whole Grains,Vegetarian,0,2,100,0,0,0
+Rajma,160,8,30,2,General health,Vegetarian,None,1,6,250,5,1,1
+Aloo Gobi,180,5,20,10,General health,Vegetarian,None,3,4,250,15,1,1
+Chicken Curry,250,20,10,15,Weight loss,Protein-Rich Foods,None,2,3,350,10,2,2
+Vegetable Biryani,300,7,40,10,General health,Vegetarian,None,2,5,300,8,2,2
+Butter Chicken,350,25,15,20,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Paneer Tikka,200,15,10,12,Weight loss,Vegetarian,None,2,4,300,15,2,2
+Dal Fry,140,7,20,5,General health,Vegetarian,None,1,4,200,5,1,1
+Samosa,150,3,20,7,General health,Snacks,None,1,2,200,2,1,1
+Masala Chai,50,1,8,2,General health,Beverages,Caffeine sensitive,5,1,10,2,0,0
+Roti,80,2,15,1,General health,Whole Grains,Vegetarian,0,2,100,0,0,0
+Palak Paneer,200,15,10,12,Weight loss,Vegetarian,None,3,5,350,15,2,2
+Dhokla,120,5,25,2,General health,Vegetarian,None,1,3,150,2,1,1
+Chicken Biryani,300,20,30,15,Weight loss,Protein-Rich Foods,None,2,3,400,10,2,2
+Chana Chaat,150,7,30,2,General health,Vegetarian,None,3,6,200,5,1,1
+Bhindi Masala,120,3,15,7,General health,Vegetarian,None,2,4,200,10,1,1
+Mango,60,1,15,0.3,General health,Fruits,None,12,2,0,45,1,1
+Aloo Paratha,250,5,30,12,General health,Vegetarian,None,1,3,200,10,1,1
+Samosa,150,3,20,7,General health,Snacks,None,1,2,200,2,1,1
+Masala Chai,50,1,8,2,General health,Beverages,Caffeine sensitive,5,1,10,2,0,0
+Dhal Tadka,150,8,20,5,General health,Vegetarian,None,1,6,250,5,1,1
+Tandoori Roti,100,3,15,2,General health,Whole Grains,Vegetarian,0,2,150,0,0,0
+Chicken Curry,250,20,10,15,Weight loss,Protein-Rich Foods,None,2,3,350,10,2,2
+Vegetable Pulao,200,5,35,5,General health,Vegetarian,None,1,4,200,8,1,1
+Lassi,80,3,10,2,General health,Beverages,None,8,0,20,2,1,1
+Baingan Bharta,120,5,15,6,General health,Vegetarian,None,2,4,200,10,1,1
+Papad,50,2,10,0,General health,Vegetarian,None,0,1,100,0,0,0
+Mango,60,1,15,0.3,General health,Fruits,None,12,2,0,45,1,1
+Cabbage Sabzi,90,2,15,3,General health,Vegetarian,None,2,4,150,10,1,1
+Roti,80,2,15,1,General health,Whole Grains,Vegetarian,0,2,100,0,0,0
+Chicken Masala,280,20,15,18,Weight loss,Protein-Rich Foods,None,3,2,400,15,2,2
+Vegetable Biryani,250,5,40,8,General health,Vegetarian,None,2,5,300,8,2,2
+Aloo Paratha,300,5,30,15,General health,Vegetarian,None,1,3,200,10,1,1
+Chana Masala,200,10,25,5,General health,Vegetarian,None,2,5,250,5,2,2
+Dal Fry,150,8,20,5,General health,Vegetarian,None,1,4,200,5,1,1
+Curd,60,3,6,3,General health,Dairy,None,4,0,20,2,1,1
+Pav Bhaji,300,5,40,12,General health,Vegetarian,None,5,6,400,10,2,2
+Masoor Dal,120,9,20,2,General health,Vegetarian,None,1,8,200,5,1,1
+Chapati,80,2,15,1,General health,Whole Grains,Vegetarian,0,2,100,0,0,0
+Bhindi Masala,100,3,15,5,General health,Vegetarian,None,2,4,150,10,1,1
+Samosa,150,3,20,7,General health,Snacks,None,1,2,200,2,1,1
+Jeera Rice,150,3,30,2,General health,Vegetarian,None,0,1,0,0,0,0
+Aloo Gobi,150,5,20,8,General health,Vegetarian,None,3,4,250,15,1,1
+Butter Naan,200,5,30,6,General health,Whole Grains,Vegetarian,1,3,250,0,0,0
+Palak Dal,130,7,15,6,General health,Vegetarian,None,1,5,200,5,1,1
+Chole,180,10,25,5,General health,Vegetarian,None,2,6,250,10,2,2
+Mango Lassi,120,3,20,3,General health,Beverages,None,15,1,20,5,1,1
+Aloo Paratha,250,5,30,12,General health,Vegetarian,None,1,3,200,10,1,1
+Rajma,160,8,30,2,General health,Vegetarian,None,1,6,250,5,1,1
+Poha,150,3,30,2,General health,Vegetarian,None,1,3,150,2,1,1
+Tandoori Chicken,300,25,0,15,Weight loss,Protein-Rich Foods,None,0,0,350,10,2,2
+Biryani,300,7,40,10,General health,Vegetarian,None,2,5,300,8,2,2
+Mango,60,1,15,0.3,General health,Fruits,None,12,2,0,45,1,1
+Chapati,80,2,15,1,General health,Whole Grains,Vegetarian,0,2,100,0,0,0
+Dhokla,120,5,25,2,General health,Vegetarian,None,1,3,150,2,1,1
+Butter Chicken,350,25,15,20,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Samosa,150,3,20,7,General health,Snacks,None,1,2,200,2,1,1
+Chana Masala,180,8,25,6,General health,Vegetarian,None,2,7,300,5,2,2
+Bhindi Fry,120,3,15,7,General health,Vegetarian,None,2,4,200,10,1,1
+Rice,100,2,20,0.5,General health,Whole Grains,Vegetarian,0,1,0,0,0,0
+Chicken Curry,250,20,10,15,Weight loss,Protein-Rich Foods,None,2,3,350,10,2,2
+Dal Makhani,200,10,20,10,General health,Vegetarian,None,2,8,250,5,1,1
+Aloo Jeera,150,3,25,5,General health,Vegetarian,None,2,3,200,5,1,1
+Roti,80,2,15,1,General health,Whole Grains,Vegetarian,0,2,100,0,0,0
+Paneer Tikka Masala,300,15,20,18,Weight loss,Vegetarian,None,3,4,400,15,2,2
+Sambhar,120,5,25,2,General health,Vegetarian,None,1,5,200,5,1,1
+Masala Chai,50,1,8,2,General health,Beverages,Caffeine sensitive,5,1,10,2,0,0
+Pav Bhaji,300,5,40,12,General health,Vegetarian,None,5,6,400,10,2,2
+Dosa,120,2,25,2,General health,Vegetarian,None,0,2,80,0,0,0
+Chicken Tikka,200,15,5,12,Weight loss,Protein-Rich Foods,None,1,3,300,10,2,2
+Upma,180,4,30,5,General health,Vegetarian,None,1,4,200,5,1,1
+Butter Roti,150,3,20,6,General health,Whole Grains,Vegetarian,0,1,100,0,0,0
+Kadhi Chawal,250,8,30,10,General health,Vegetarian,None,3,2,250,5,1,1
+Mango Shake,150,3,25,4,General health,Beverages,None,15,1,20,5,1,1
+Egg Curry,280,20,10,18,Weight loss,Protein-Rich Foods,None,2,3,350,10,2,2
+Idli Sambar,200,5,40,2,General health,Vegetarian,None,2,5,200,8,1,1
+Masala Chai,50,1,8,2,General health,Beverages,Caffeine sensitive,5,1,10,2,0,0
+Aloo Gobi,150,5,20,8,General health,Vegetarian,None,3,4,250,15,1,1
+Fish Curry,250,20,15,12,Weight loss,Protein-Rich Foods,None,2,3,300,10,2,2
+Cabbage Sabzi,100,2,15,5,General health,Vegetarian,None,2,4,150,10,1,1
+Lentil Soup (Dal),120,8,15,3,General health,Vegetarian,None,1,5,200,5,1,1
+Curd Rice,180,5,25,6,General health,Vegetarian,None,4,2,100,2,1,1
+Bhindi Masala,120,3,15,7,General health,Vegetarian,None,2,4,200,10,1,1
+Puri Bhaji,300,5,40,12,General health,Vegetarian,None,2,3,300,8,2,2
+Chicken Biryani,300,20,30,15,Weight loss,Protein-Rich Foods,None,2,3,400,10,2,2
+Rajma Chawal,250,10,40,5,General health,Vegetarian,None,2,8,300,8,2,2
+Egg Bhurji,200,15,10,12,Weight loss,Protein-Rich Foods,None,2,3,350,15,2,2
+Vegetable Biryani,300,7,40,10,General health,Vegetarian,None,2,5,300,8,2,2
+Methi Thepla,120,3,20,5,General health,Whole Grains,Vegetarian,1,2,150,2,0,0
+Butter Chicken,350,25,15,20,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Tomato Rasam,80,2,15,1,General health,Vegetarian,None,3,1,100,5,1,1
+Mango Lassi,150,5,30,2,General health,Beverages,None,20,1,20,10,1,1
+Poha,180,4,35,3,General health,Vegetarian,None,1,3,150,2,1,1
+Chicken Korma,280,20,10,15,Weight loss,Protein-Rich Foods,None,2,3,350,10,2,2
+Masala Chai,50,1,8,2,General health,Beverages,Caffeine sensitive,5,1,10,2,0,0
+Paneer Butter Masala,300,15,20,18,Weight loss,Vegetarian,None,3,4,400,15,2,2
+Bhindi Fry,120,3,15,7,General health,Vegetarian,None,2,4,200,10,1,1
+Aloo Paratha,250,5,30,12,General health,Vegetarian,None,1,3,200,10,1,1
+Fish Curry,250,20,15,12,Weight loss,Protein-Rich Foods,None,2,3,300,10,2,2
+Vegetable Pulao,200,5,35,5,General health,Vegetarian,None,1,4,200,8,1,1
+Masoor Dal,150,8,20,2,General health,Vegetarian,None,1,8,200,5,1,1
+Cabbage Sabzi,100,2,15,5,General health,Vegetarian,None,2,4,150,10,1,1
+Rice,100,2,20,0.5,General health,Whole Grains,Vegetarian,0,1,0,0,0,0
+Tandoori Roti,100,3,15,2,General health,Whole Grains,Vegetarian,0,2,150,0,0,0
+Mango,60,1,15,0.3,General health,Fruits,None,12,2,0,45,1,1
+Dhokla,150,5,30,2,General health,Vegetarian,None,1,3,150,2,1,1
+Chicken Kebab,200,18,2,12,Weight loss,Protein-Rich Foods,None,1,2,300,10,2,2
+Jeera Rice,150,3,30,2,General health,Vegetarian,None,0,1,0,0,0,0
+Baingan Bharta,120,5,15,6,General health,Vegetarian,None,2,4,200,10,1,1
+Chana Chaat,120,7,20,2,General health,Vegetarian,None,3,6,200,5,1,1
+Mango,60,1,15,0.3,General health,Fruits,None,12,2,0,45,1,1
+Chapati,80,2,15,1,General health,Whole Grains,Vegetarian,0,2,100,0,0,0
+Rasam,50,1,10,1,General health,Vegetarian,None,2,1,100,5,1,1
+Aloo Baingan,120,3,20,5,General health,Vegetarian,None,1,3,150,10,1,1
+Masala Chai,50,1,8,2,General health,Beverages,Caffeine sensitive,5,1,10,2,0,0
+Puri,150,3,25,6,General health,Vegetarian,None,2,3,150,0,0,0
+Lemon Rice,200,4,40,5,General health,Vegetarian,None,1,2,200,5,1,1
+Tandoori Chicken,250,25,0,15,Weight loss,Protein-Rich Foods,None,0,0,350,10,2,2
+Vegetable Samosa,150,3,20,7,General health,Snacks,None,1,2,200,2,1,1
+Raita,80,4,8,4,General health,Vegetarian,None,3,1,50,2,1,1
+Chicken Biryani,300,20,30,15,Weight loss,Protein-Rich Foods,None,2,3,400,10,2,2
+Bhindi Masala,120,3,15,7,General health,Vegetarian,None,2,4,200,10,1,1
+Aloo Tikki,100,2,15,5,General health,Snacks,None,1,2,150,2,1,1
+Mango Shake,150,3,25,4,General health,Beverages,None,15,1,20,5,1,1
+Pav Bhaji,300,5,40,12,General health,Vegetarian,None,5,6,400,10,2,2
+Masala Dosa,200,5,30,8,General health,Vegetarian,None,1,3,200,5,1,1
+Chicken Curry,250,20,15,12,Weight loss,Protein-Rich Foods,None,2,3,300,10,2,2
+Vegetable Upma,150,4,30,3,General health,Vegetarian,None,1,4,150,2,1,1
+Butter Naan,200,5,30,6,General health,Whole Grains,Vegetarian,1,3,250,0,0,0
+Kadhi Chawal,250,8,30,10,General health,Vegetarian,None,3,2,250,5,1,1
+Mango Lassi,150,3,25,4,General health,Beverages,None,20,1,20,5,1,1
+Egg Curry,280,20,10,18,Weight loss,Protein-Rich Foods,None,2,3,350,10,2,2
+Idli Sambar,200,5,40,2,General health,Vegetarian,None,2,5,200,8,1,1
+Sarson Da Saag,120,5,15,6,General health,Vegetarian,None,2,3,150,10,1,1
+Gulab Jamun,150,2,30,5,Indulgence,Sweets,None,15,1,20,0,0,0
+Tandoori Roti,100,3,15,2,General health,Whole Grains,Vegetarian,0,2,150,0,0,0
+Aloo Matar,180,4,25,7,General health,Vegetarian,None,2,4,200,5,1,1
+Bhutte Ka Kees,200,5,30,8,General health,Vegetarian,None,3,3,150,8,1,1
+Jalebi,200,2,40,8,Indulgence,Sweets,None,20,0,10,0,0,0
+Papdi Chaat,250,5,30,10,General health,Snacks,None,3,2,200,5,2,2
+Raj Kachori,300,8,40,15,Indulgence,Snacks,None,5,4,250,2,2,2
+Samosa Chaat,200,5,25,10,General health,Snacks,None,3,2,150,5,1,1
+Gajar Ka Halwa,180,3,25,8,Indulgence,Sweets,None,10,2,20,0,0,0
+Bhindi Masala,120,3,15,7,General health,Vegetarian,None,2,4,200,10,1,1
+Aloo Methi,150,4,20,6,General health,Vegetarian,None,2,3,150,5,1,1
+Gobi Manchurian,250,5,30,12,Indulgence,Vegetarian,None,5,4,300,2,2,2
+Pav Bhaji,300,5,40,12,General health,Vegetarian,None,5,6,400,10,2,2
+Tandoori Chicken,250,25,0,15,Weight loss,Protein-Rich Foods,None,0,0,350,10,2,2
+Butter Chicken,350,25,15,20,Weight loss,Protein-Rich Foods,None,3,2,400,10,2,2
+Vegetable Biryani,300,7,40,10,General health,Vegetarian,None,2,5,300,8,2,2
+Chana Masala,180,8,25,6,General health,Vegetarian,None,2,7,300,5,2,2
+Dhokla,150,5,30,2,General health,Vegetarian,None,1,3,150,2,1,1
+Chicken Korma,280,20,10,15,Weight loss,Protein-Rich Foods,None,2,3,350,10,2,2
+Puliyodarai(Tamarind Rice),250,5,40,8,General health,Vegetarian,None,2,4,200,5,1,1
+Matar Pulao,200,5,35,6,General health,Vegetarian,None,1,3,150,2,1,1
+Chicken 65,300,15,10,20,Weight loss,Protein-Rich Foods,None,1,2,300,10,2,2
+Kheer,150,3,20,7,Indulgence,Sweets,None,12,1,10,2,1,1
+Palak Paneer,200,10,15,12,General health,Vegetarian,None,2,3,200,15,2,2
+Bhatura,250,5,30,10,Indulgence,Vegetarian,None,2,2,200,0,0,0
+Chole Bhature,300,8,40,12,General health,Vegetarian,None,2,5,300,8,2,2
+Mango Pickle,50,1,10,3,General health,Vegetarian,None,5,2,100,2,1,1
+Baingan Bharta,150,5,20,8,General health,Vegetarian,None,2,3,150,10,1,1
+Papaya Salad,80,1,20,0.5,General health,Vegetarian,None,8,3,50,15,1,1
+Aloo Paratha,250,5,30,12,General health,Vegetarian,None,1,3,200,10,1,1
+Fish Curry,250,20,15,12,Weight loss,Protein-Rich Foods,None,2,3,300,10,2,2
+Paneer Tikka,200,15,10,10,General health,Vegetarian,None,2,2,250,8,2,2
+Chicken Biryani,300,20,30,15,Weight loss,Protein-Rich Foods,None,2,3,400,10,2,2
+Dhokla,150,5,30,2,General health,Vegetarian,None,1,3,150,2,1,1
+Poha,180,4,35,3,General health,Vegetarian,None,1,3,150,2,1,1
+Tandoori Roti,100,3,15,2,General health,Whole Grains,Vegetarian,0,2,150,0,0,0
+Rajma Chawal,250,10,40,5,General health,Vegetarian,None,2,8,300,8,2,2
+Lassi,120,3,15,6,General health,Beverages,None,10,1,20,5,1,1
+Chicken Korma,280,20,10,15,Weight loss,Protein-Rich Foods,None,2,3,350,10,2,2
+Masoor Dal,150,8,20,2,General health,Vegetarian,None,1,8,200,5,1,1
+Bhindi Fry,120,3,15,7,General health,Vegetarian,None,2,4,200,10,1,1
+Jeera Rice,150,3,30,2,General health,Vegetarian,None,0,1,0,0,0,0
+Rava Upma,180,5,35,4,General health,Vegetarian,None,1,4,150,2,1,1
+Aloo Gobi,150,5,20,8,General health,Vegetarian,None,3,4,250,15,1,1
+Gajar Ka Halwa,180,3,25,8,Indulgence,Sweets,None,10,2,20,0,0,0
+Palak Puri,200,4,30,6,General health,Vegetarian,None,1,3,150,2,1,1
+Chicken Saagwala,250,20,15,10,Weight loss,Protein-Rich Foods,None,2,3,300,10,2,2
+Vada Pav,300,5,40,12,Indulgence,Vegetarian,None,5,6,400,10,2,2
+Aloo Methi,150,4,20,6,General health,Vegetarian,None,2,3,150,5,1,1
+Rajasthani Gatte Ki Sabzi,180,6,25,7,General health,Vegetarian,None,2,4,200,10,1,1
+Masala Dosa,200,5,30,8,General health,Vegetarian,None,1,3,200,5,1,1
+Tandoori Roti,100,3,15,2,General health,Whole Grains,Vegetarian,0,2,150,0,0,0
+Chicken Chettinad,300,25,10,15,Weight loss,Protein-Rich Foods,None,2,3,350,10,2,2
+Kadhi Pakora,150,5,15,7,General health,Vegetarian,None,2,4,200,5,1,1
+Vegetable Biryani,300,7,40,10,General health,Vegetarian,None,2,5,300,8,2,2
+Malai Kofta,250,8,20,15,General health,Vegetarian,None,3,3,250,8,2,2
+Methi Thepla,150,4,25,4,General health,Whole Grains,Vegetarian,0,2,200,2,1,1
+Kofta Curry,250,10,15,18,General health,Vegetarian,None,3,2,250,5,1,1
+Pav Bhaji,300,5,40,12,General health,Vegetarian,None,5,6,400,10,2,2
+Gobi Manchurian,250,5,30,12,Indulgence,Vegetarian,None,5,4,300,2,2,2
+Sarson Da Saag,120,5,15,6,General health,Vegetarian,None,2,3,150,10,1,1
+Chicken Kebab,200,18,2,12,Weight loss,Protein-Rich Foods,None,1,2,300,10,2,2
+Aloo Tikki,100,2,15,5,General health,Snacks,None,1,2,150,2,1,1
+Mango Shake,150,3,25,4,General health,Beverages,None,15,1,20,5,1,1
+Baingan Bharta,120,5,15,6,General health,Vegetarian,None,2,3,150,10,1,1
+Rajma Chawal,250,10,40,5,General health,Vegetarian,None,2,8,300,8,2,2
+Gajar Halwa,200,3,30,8,Indulgence,Sweets,None,15,2,20,0,0,0
+Raita,80,4,8,4,General health,Vegetarian,None,3,1,50,2,1,1
+Chole Bhature,300,8,40,12,General health,Vegetarian,None,2,5,300,8,2,2
+Kheer,150,3,20,7,Indulgence,Sweets,None,12,1,10,2,1,1
+Masala Papad,50,2,5,3,General health,Vegetarian,None,1,2,50,0,0,0
+Kachumber Salad,30,1,5,1,General health,Vegetarian,None,2,1,20,10,1,1
+Dhokla,150,5,30,2,General health,Vegetarian,None,1,3,150,2,1,1
+Missi Roti,150,6,20,5,General health,Vegetarian,None,1,2,150,0,0,0
+Samosa,200,3,25,10,General health,Vegetarian,None,2,2,150,5,1,1
+Pani Puri,100,2,20,2,General health,Snacks,None,3,2,100,2,1,1
+Rasam,50,2,10,1,General health,Vegetarian,None,1,1,50,2,1,1
+Jhalmuri,120,3,25,2,General health,Snacks,None,1,4,100,2,1,1
+Dum Aloo,180,4,20,10,General health,Vegetarian,None,2,3,200,5,1,1
+Masala Chaas,40,2,5,1,General health,Beverages,None,2,1,30,2,0,0
+Palak Pakora,150,5,15,7,General health,Vegetarian,None,1,2,150,5,1,1
+Bisi Bele Bath,250,8,40,5,General health,Vegetarian,None,2,5,250,5,2,2
+Aloo Jeera,120,3,20,5,General health,Vegetarian,None,1,2,150,5,1,1
+Dal Makhani,250,10,25,12,General health,Vegetarian,None,2,5,250,8,2,2
+Pesarattu (Green Gram Dosa),180,6,25,5,General health,Vegetarian,None,1,4,200,2,1,1
+Baingan Bhaja,100,2,15,4,General health,Vegetarian,None,1,3,100,2,1,1
+Malabar Parotta,200,4,25,10,General health,Whole Grains,Vegetarian,0,2,150,0,0,0
+Mutton Biryani,350,25,30,18,Weight loss,Protein-Rich Foods,None,2,3,400,10,2,2
+Soya Chaap,180,15,10,8,Weight loss,Protein-Rich Foods,None,1,2,200,5,1,1
+Kokum Sharbat,80,1,20,0,General health,Beverages,None,15,1,10,2,0,0
+Paneer Bhurji,150,10,5,12,General health,Vegetarian,None,2,1,200,10,1,1
+Keema Samosa,200,6,20,10,General health,Snacks,None,2,2,150,5,1,1
+Bhindi Masala,120,3,15,7,General health,Vegetarian,None,2,4,200,10,1,1
+Chapati,100,3,20,1,General health,Whole Grains,Vegetarian,0,2,100,0,0,0
+Mutton Rogan Josh,300,20,15,18,Weight loss,Protein-Rich Foods,None,2,3,300,10,2,2
+Aloo Paratha,250,5,30,12,General health,Vegetarian,None,1,3,200,10,1,1
+Rajma Masala,180,8,25,6,General health,Vegetarian,None,2,7,300,5,2,2
+Tandoori Naan,150,5,20,4,General health,Whole Grains,Vegetarian,0,2,150,0,0,0
+Chicken Tikka,200,18,3,12,Weight loss,Protein-Rich Foods,None,1,2,250,8,2,2
+Methi Paratha,150,4,20,5,General health,Vegetarian,None,1,2,150,0,0,0
+Mango Chutney,80,1,20,0.5,General health,Vegetarian,None,15,1,20,5,1,1
+Rava Kesari,200,3,40,5,Indulgence,Sweets,None,20,1,10,2,1,1
+Guava,68,2.6,14,0.9,General health,Fruits,None,9,5.4,2,228,2,2
+Papaya,59,0.5,15,0.4,General health,Fruits,None,8.9,2.3,8,86,2,2
+Mango,60,0.8,15,0.4,General health,Fruits,None,14,1.6,1,54,1,1
+Banana,105,1.3,27,0.3,General health,Fruits,None,14,2.6,1,105,1,1
+Pineapple,50,0.5,13,0.1,General health,Fruits,None,9,1.4,1,47,1,1
+Pomegranate,83,1.7,18.7,1.2,General health,Fruits,None,9,4,3,10,1,1
+Apple,52,0.3,14,0.2,General health,Fruits,None,10,2.4,0,54,0,0
+Orange,43,1,8.3,0.2,General health,Fruits,None,8.2,2.3,0,43,1,1
+Kiwi,61,1.1,14.6,0.5,General health,Fruits,None,9,3.1,3,92,1,1
+Watermelon,30,0.6,8,0.2,General health,Fruits,None,6,0.4,1,12,1,1
+Mango Lassi,150,3,25,4,General health,Beverages,None,15,1,20,5,1,1
+Grapes,69,0.6,18,0.2,General health,Fruits,None,16,0.9,2,3,0,0
+Sitaphal(Custard Apple),94,2.1,23.6,0.5,General health,Fruits,None,14.9,2.4,7,18,1,1
+Jamun,60,0.9,14,0.3,General health,Fruits,None,9.7,0.6,15,18,2,2
+Sapota(Chikoo),83,0.9,19,0.5,General health,Fruits,None,16.5,5.3,12,20,2,2
+Jackfruit,95,2.5,24,0.3,General health,Fruits,None,19,2.5,2,23,2,2
+Papaya Salad,80,1,20,0.5,General health,Fruits,None,8,3,50,15,1,1
+Strawberry,32,0.7,7.7,0.3,General health,Fruits,None,4.9,2,1,16,1,1
+Kiwi,61,1.1,14.6,0.5,General health,Fruits,None,9,3.1,3,92,1,1
+Chikoo Milkshake,120,2,28,1,General health,Beverages,None,15,4,20,2,1,1
+Banana Smoothie,120,2,30,1,General health,Beverages,None,20,3,10,5,1,1
+Papaya Salad,80,1,20,0.5,General health,Fruits,None,8,3,50,15,1,1
+Kokum Sherbet,50,0.5,12,0,General health,Beverages,None,10,1,5,2,0,0
+Fig (Anjeer),74,0.8,19,0.3,General health,Fruits,None,16,2.9,1,3,2,2
+Dates,282,2.5,75,0.4,General health,Fruits,None,63,8,2,2,2,2
+Custard Apple Milkshake,150,2,30,2,General health,Beverages,None,18,4,15,8,1,1
+Mango Chaat,100,1,25,0.5,General health,Fruits,None,15,2,10,30,1,1
+Pomegranate Raita,90,3,12,4,General health,Vegetarian,None,5,2,30,5,1,1
+Mango Sorbet,120,1,30,0,General health,Fruits,None,25,2,5,10,1,1
+Lychee,66,0.8,17,0.4,General health,Fruits,None,9,1.3,1,136,1,1
+Kesar Pista Milk,150,5,15,7,General health,Beverages,None,10,1,20,6,1,1
+Papaya Smoothie,120,2,30,0.5,General health,Fruits,None,20,4,10,10,1,1
+Guava Chaat,80,2,20,0.5,General health,Fruits,None,10,4,5,40,2,2
+Kokum Panna,60,0.5,15,0,General health,Beverages,None,12,1,5,2,0,0
+Dragon Fruit,60,1,13,1,General health,Fruits,None,8,3,2,9,1,1
+Kokum Jelly,100,0.5,25,0.2,General health,Fruits,None,15,1,10,5,1,1
+Kiwi Salad,70,1.5,15,1,General health,Fruits,None,8,3,5,92,1,1
+Mango Lollipop,40,0.5,10,0,General health,Fruits,None,7,1,2,5,0,0
+Jamun Juice,50,1,12,0,General health,Beverages,None,10,1,5,18,1,1
+Lychee Sarbat,120,1,30,0.5,General health,Fruits,None,25,2,5,10,1,1
+Masala Chai,50,1,10,1,General health,Beverages,None,5,1,10,0,0,0
+Buttermilk,30,2,4,1,General health,Beverages,None,2,0,20,2,1,1
+Thandai,100,2,20,3,General health,Beverages,None,15,2,10,5,1,1
+Aam Panna,70,1,18,0.5,General health,Beverages,None,12,2,5,15,1,1
+Jaljeera,40,1,10,0.5,General health,Beverages,None,7,1,10,5,1,1
+Kokum Sharbat,60,0.5,15,0,General health,Beverages,None,12,1,5,2,0,0
+Mango Juice (Packaged),120,1,30,0.5,General health,Beverages,None,25,2,5,10,1,1
+Lemonade,30,0.5,8,0,General health,Beverages,None,6,1,2,10,1,1
+Iced Tea (Packaged),70,0,18,0,General health,Beverages,None,15,0,5,2,1,1
+Coconut Water,46,0.9,8.9,0.2,General health,Beverages,None,6,2.7,5,3,2,2
+Rose Sherbet,80,0.5,20,0,General health,Beverages,None,18,1,5,10,1,1
+Chaas (Spiced Buttermilk),25,2,3,1,General health,Beverages,None,1,0,15,2,1,1
+Kesar Badam Milk,120,5,15,6,General health,Beverages,None,10,1,20,5,2,2
+Ginger Tea,30,1,5,1,General health,Beverages,None,3,1,5,0,0,0
+Bel (Wood Apple) Sharbat,70,0.5,18,0.3,General health,Beverages,None,15,2,5,15,1,1
+Guava Juice (Packaged),100,1,25,0.5,General health,Beverages,None,20,2,5,15,1,1
+Sattu Drink,60,5,10,1,General health,Beverages,None,2,3,10,8,2,2
+Nimbu Pani,40,0.5,10,0,General health,Beverages,None,8,1,2,10,1,1
+Mango Lassi (Packaged),150,2,30,2,General health,Beverages,None,18,2,10,5,1,1
+Kokum Solkadhi,50,1,12,0.5,General health,Beverages,None,10,1,5,2,1,1
+Aam Ras (Packaged),120,1,30,0.5,General health,Beverages,None,25,2,5,10,1,1
+Jaljeera Soda (Packaged),90,0.5,22,0,General health,Beverages,None,15,1,10,5,1,1
+Kokum Juice (Packaged),80,0.5,20,0.2,General health,Beverages,None,12,1,5,2,1,1
+Masala Lemonade (Packaged),70,0.5,18,0,General health,Beverages,None,15,1,2,10,1,1
+Thums Up (Indian Cola),150,0,38,0,General health,Beverages,None,36,0,20,0,0,0
+Pepsi (Packaged),140,0,37,0,General health,Beverages,None,36,0,25,0,0,0
+Limca (Lemon-Lime Soda),110,0,28,0,General health,Beverages,None,26,0,15,0,0,0
+Sprite (Packaged),130,0,34,0,General health,Beverages,None,33,0,20,0,0,0
+Frooti (Mango Drink),100,0,25,0,General health,Beverages,None,20,0,15,0,0,0
+Maaza (Mango Drink),120,0,30,0,General health,Beverages,None,28,0,18,0,0,0
+Rooh Afza Sharbat (Concentrate),70,0,18,0,General health,Beverages,None,15,0,10,2,1,1
+Paper Boat Aamras (Packaged),120,1,30,0.5,General health,Beverages,None,25,2,5,10,1,1
+Lassi (Packaged),100,2,15,4,General health,Beverages,None,15,1,20,5,2,2
+Tzinga Energy Drink,120,0,30,0,General health,Beverages,None,28,0,18,0,0,0
+Bovonto (Indian Cola),150,0,38,0,General health,Beverages,None,36,0,20,0,0,0
+Appy Fizz (Apple Drink),90,0,22,0,General health,Beverages,None,18,0,10,2,1,1
+Limca (Lemon-Lime Soda),110,0,28,0,General health,Beverages,None,26,0,15,0,0,0
+Pepsi (Packaged),140,0,37,0,General health,Beverages,None,36,0,25,0,0,0
+Mirinda (Orange Drink),120,0,30,0,General health,Beverages,None,28,0,18,0,0,0
+Sprite (Packaged),130,0,34,0,General health,Beverages,None,33,0,20,0,0,0
+Boroline (Packaged),10,0,2,0,General health,None,None,0,0,0,0,0,0
+Rooh Afza Lemonade (Packaged),80,0,20,0,General health,Beverages,None,18,1,5,10,1,1
+Rasna (Fruit Drink Mix),60,0,15,0,General health,Beverages,None,12,0,5,2,1,1
+Kala Khatta (Packaged),70,0,18,0,General health,Beverages,None,15,0,10,2,1,1
+Sosyo (Indian Cola),120,0,30,0,General health,Beverages,None,28,0,18,0,0,0
+Coca-Cola (Packaged),140,0,39,0,General health,Beverages,None,39,0,23,0,0,0
+Thums Up (Packaged),150,0,38,0,General health,Beverages,None,36,0,20,0,0,0
+7UP (Packaged),140,0,36,0,General health,Beverages,None,34,0,15,0,0,0
+Mountain Dew (Packaged),170,0,46,0,General health,Beverages,None,45,0,30,0,0,0
+Appy Classic (Apple Drink),80,0,20,0,General health,Beverages,None,16,0,5,2,,
+Taj Mahal Tea (Packaged),5,0,1,0,General health,Beverages,None,0,0,0,0,0,0
+Rooh Afza Lemonade (Packaged),80,0,20,0,General health,Beverages,None,18,1,5,10,1,1
+Kissan Mixed Fruit Jam (Packaged),50,0,13,0,General health,Condiments,None,10,0.5,5,0,0,0
+Bru Instant Coffee (Packaged),2,0,0,0,General health,Beverages,None,0,0,0,0,0,0
+Real Fruit Power (Packaged),60,0,15,0,General health,Beverages,None,12,0,5,2,1,1
+Bournvita (Malt Drink Mix),80,2,15,1,General health,Beverages,None,10,2,15,5,2,2
+Horlicks (Malt Drink Mix),100,3,15,2,General health,Beverages,None,12,3,10,6,2,2
+Paper Boat Aamras (Packaged),120,1,30,0.5,General health,Beverages,None,25,2,5,10,1,1
+Thums Up (Packaged),150,0,38,0,General health,Beverages,None,36,0,20,0,0,0
+Sprite (Packaged),130,0,34,0,General health,Beverages,None,33,0,20,0,0,0
+Pani Puri (Golgappa),10,0.5,2,0,Indulgence,Street Food,None,0,0,5,0,0,0
+Bhel Puri,150,3,30,5,Indulgence,Street Food,None,5,2,10,8,1,1
+Vada Pav,300,5,45,12,Indulgence,Street Food,None,3,3,20,6,1,1
+Samosa,120,2,15,6,Indulgence,Street Food,None,2,1,10,2,1,1
+Paneer Tikka,200,10,15,12,Indulgence,Indian,None,5,2,15,10,2,2
+Kachori,250,3,20,16,Indulgence,Street Food,None,3,1,10,4,2,2
+Chole Bhature,500,10,60,20,Indulgence,Indian,None,5,5,25,8,3,3
+Pav Bhaji,350,5,50,15,Indulgence,Street Food,None,8,4,20,10,2,2
+Dahi Puri,120,3,20,4,Indulgence,Street Food,None,2,1,5,6,1,1
+Aloo Tikki,100,2,15,4,Indulgence,Street Food,None,1,2,5,2,1,1
+Dosa with Coconut Chutney,250,5,50,2,Indulgence,South Indian,None,2,5,15,6,2,2
+Kathi Roll (Paneer),300,10,25,15,Indulgence,Indian,None,3,2,10,8,2,2
+Pav Bhaji Pizza,400,8,45,20,Indulgence,Fusion,None,5,3,20,10,2,2
+Chicken Biryani,500,20,60,20,Indulgence,Indian,None,2,4,25,10,2,2
+Chole Kulche,350,10,60,5,Indulgence,North Indian,None,2,6,15,8,3,3
+Idli Sambhar,200,4,40,1,Indulgence,South Indian,None,1,4,10,6,2,2
+Momos with Spicy Sauce,150,5,20,5,Indulgence,Tibetan,None,3,2,15,2,1,1
+Jalebi,250,1,60,10,Indulgence,Indian,None,30,1,5,2,1,1
+Aloo Chaat,180,3,25,8,Indulgence,Street Food,None,5,3,10,4,1,1
+Bread Pakora,200,5,20,12,Indulgence,Indian,None,3,2,15,2,1,1
+Veg Hakka Noodles,300,8,45,10,Indulgence,Indo-Chinese,None,2,4,15,2,1,1
+Chicken Seekh Kebab,180,15,5,12,Indulgence,Indian,None,1,2,10,6,2,2
+Papdi Chaat,200,4,25,10,Indulgence,Street Food,None,5,2,10,4,1,1
+Raj Kachori,350,6,40,18,Indulgence,Street Food,None,6,3,15,2,2,2
+Kadai Paneer,250,12,15,18,Indulgence,Indian,None,4,2,10,8,2,2
+Aloo Paratha,350,8,50,15,Indulgence,North Indian,None,2,5,15,6,2,2
+Dabeli,300,5,40,12,Indulgence,Street Food,None,4,3,20,10,1,1
+Paneer Pakora,180,10,15,12,Indulgence,Indian,None,2,1,15,2,1,1
+Egg Roll,250,12,20,15,Indulgence,Indian,None,2,2,10,6,2,2
+Vada Pav,200,4,25,10,Indulgence,Street Food,None,3,2,10,4,1,1
+Schezwan Dosa,280,6,40,10,Indulgence,Indo-Chinese,None,3,4,15,6,2,2
+Ragda Pattice,350,8,55,12,Indulgence,Street Food,None,5,3,20,8,3,3
+Chana Chaat,180,5,30,5,Indulgence,Street Food,None,4,3,10,4,1,1
+Mutton Biryani,550,25,60,25,Indulgence,Indian,None,2,4,25,10,2,2
+Paneer Tikka Pizza,400,12,35,18,Indulgence,Fusion,None,4,3,20,10,2,2
+Bhutte Ka Kees,200,5,30,8,Indulgence,Indian,None,2,3,10,6,2,2
+Kalmi Kebab,220,18,10,15,Indulgence,Indian,None,1,2,10,6,2,2
+Chole Bhature,450,12,60,20,Indulgence,North Indian,None,4,5,25,8,3,3
+Baida Roti,300,15,20,18,Indulgence,Indian,None,2,2,10,6,2,2
+Dhokla,120,5,20,2,Indulgence,Gujarati,None,2,2,5,4,1,1
+Mutton Roll,300,15,25,15,Indulgence,Indian,None,2,2,15,6,2,2
+Bhurji Pav,250,10,15,18,Indulgence,Indian,None,3,2,10,8,2,2
+Methi Thepla,200,5,30,8,Indulgence,Gujarati,None,2,3,10,6,2,2
+Keema Samosa,180,8,15,10,Indulgence,Indian,None,2,1,10,2,1,1
+Fish Curry Rice,400,20,40,15,Indulgence,Seafood,None,2,4,20,10,2,2
+Kadai Chicken,300,18,12,20,Indulgence,Indian,None,4,2,10,8,2,2
+Mysore Pak,200,5,30,10,Indulgence,Sweets,None,20,2,5,2,1,1
+Butter Chicken,450,20,25,30,Indulgence,Indian,None,3,2,20,10,2,2
+Palak Chaat,180,5,25,8,Indulgence,Street Food,None,4,2,10,4,1,1
+Tandoori Momos,250,12,20,12,Indulgence,Tibetan,None,3,2,15,2,1,1
+Chole Samosa Chaat,250,7,40,8,Indulgence,Street Food,None,6,3,15,4,1,1
+Achari Paneer Tikka,180,12,10,14,Indulgence,Indian,None,2,2,10,6,2,2
+Misal Pav,300,10,45,12,Indulgence,Street Food,None,5,4,20,8,2,2
+Chicken Korma,350,15,20,25,Indulgence,Indian,None,3,2,15,8,2,2
+Dahi Ke Kebab,200,8,15,12,Indulgence,Indian,None,2,1,10,6,2,2
+Bread Upma,220,6,30,8,Indulgence,Indian,None,3,4,10,4,1,1
+Pav Bhaji Cones,180,5,25,10,Indulgence,Street Food,None,4,2,10,4,1,1
+Rajma Chawal Cutlet,150,6,20,6,Indulgence,North Indian,None,2,3,10,2,1,1
+Cheese Burst Pizza,400,15,40,20,Indulgence,Fusion,None,6,3,25,10,2,2
+Paneer Chilli Dosa,300,10,25,15,Indulgence,Indo-Chinese,None,4,3,15,6,2,2
+Aloo Tikki Burger,300,8,45,12,Indulgence,Street Food,None,5,4,20,8,2,2
+Fish Tikka Wrap,250,15,20,15,Indulgence,Seafood,None,3,2,15,6,2,2
+Papad Chaat,180,3,20,10,Indulgence,Street Food,None,4,2,10,4,1,1
+Mughlai Paratha,350,10,50,15,Indulgence,North Indian,None,2,5,15,6,2,2
+Veg Momos,120,5,15,6,Indulgence,Tibetan,None,1,2,10,2,1,1
+Chilli Cheese Toast,200,8,20,10,Indulgence,Indian,None,3,2,15,2,1,1
+Chicken Kathi Roll,300,15,25,18,Indulgence,Indian,None,2,2,10,6,2,2
+Pav Bhaji Fondue,350,8,50,15,Indulgence,Fusion,None,8,4,20,10,2,2
+Poha Cutlet,180,5,25,8,Indulgence,Indian,None,3,2,10,4,1,1
+Dal Baati Churma,400,15,40,20,Indulgence,Rajasthani,None,2,4,25,10,2,2
+Masala Dosa,320,10,40,15,Indulgence,Indo-Chinese,None,6,3,18,8,2,2
+Achari Chicken Roll,280,15,20,18,Indulgence,Indian,None,2,2,12,6,2,2
+Bhindi Kurkure,180,4,25,8,Indulgence,Indian,None,4,3,10,4,1,1
+Chapati Noodles,250,6,30,12,Indulgence,Indo-Chinese,None,3,4,15,6,2,2
+Bread Pakora Burger,300,8,40,12,Indulgence,Street Food,None,5,3,20,8,2,2
+Kheema Pav,350,18,20,25,Indulgence,Indian,None,3,2,15,8,2,2
+Maggi Pakora,200,5,25,10,Indulgence,Street Food,None,3,2,10,2,1,1
+Palak Corn Sandwich,180,8,20,8,Indulgence,Indian,None,2,2,10,6,2,2
+Vegetarian Momos,150,6,15,8,Indulgence,Tibetan,None,1,2,10,2,1,1
+Gulab Jamun Shake,250,5,30,10,Indulgence,Sweets,None,20,2,5,2,1,1
+Paneer Frankie,300,12,25,15,Indulgence,Indian,None,3,2,12,6,2,2
+Aloo Bonda,180,5,20,10,Indulgence,Indian,None,2,2,10,4,1,1
+Chilli Paneer Pizza,400,15,35,20,Indulgence,Fusion,None,5,3,20,10,2,2
+Dhokla Sandwich,250,7,30,10,Indulgence,Gujarati,None,3,3,10,6,2,2
+Mutton Kebab Roll,350,20,15,25,Indulgence,Indian,None,4,2,15,8,2,2
+Rajma Pizza,300,10,40,12,Indulgence,Indian,None,4,3,20,8,3,3
+Veg Hakka Noodles Wrap,280,8,35,12,Indulgence,Indo-Chinese,None,2,4,15,6,2,2
+Cheese Pav Bhaji,350,10,45,15,Indulgence,Street Food,None,8,4,20,10,2,2
+Chicken 65 Burger,320,18,20,20,Indulgence,Indian,None,3,2,15,8,2,2
+Peanut Masala Chaat,200,8,15,12,Indulgence,Street Food,None,4,2,10,4,1,1
+Chicken Tikka Biryani,500,25,60,20,Indulgence,Indian,None,2,4,25,10,2,2
+Mushroom Manchurian Roll,300,10,25,18,Indulgence,Indo-Chinese,None,3,2,10,6,2,2
+Gobi 65,250,8,30,12,Indulgence,Indian,None,2,3,15,6,2,2
+Samosa Chaat Salad,200,5,25,10,Indulgence,Street Food,None,4,2,10,4,1,1
+Kadai Veg Noodles,280,6,40,10,Indulgence,Indo-Chinese,None,2,4,15,2,1,1
+Masala Dosa Wrap,350,8,45,15,Indulgence,South Indian,None,3,5,20,8,2,2
+Punjabi Chole Burrito,300,10,35,12,Indulgence,North Indian,None,4,3,20,10,2,2
+Pav Bhaji Tostada,380,10,50,18,Indulgence,Fusion,None,6,3,25,8,2,2
+Aloo Gobi Quesadilla,320,8,35,15,Indulgence,Indian,None,4,2,15,6,2,2
+Chicken Keema Naanwich,400,20,30,22,Indulgence,Indian,None,3,2,15,8,2,2
+Dahi Puri,180,5,20,10,Indulgence,Street Food,None,3,2,10,4,1,1
+Veggie Pizza Dosa,320,10,35,15,Indulgence,South Indian,None,4,3,18,8,2,2
+Paneer Tikka Nachos,280,12,20,18,Indulgence,Indian,None,2,2,12,6,2,2
+Aloo Tikki Pizza,350,10,45,12,Indulgence,Street Food,None,5,3,20,8,2,2
+Chana Chaat Wrap,250,8,30,10,Indulgence,Street Food,None,4,2,15,6,2,2
+Pav Bhaji Tacos,300,8,40,15,Indulgence,Street Food,None,6,3,20,10,2,2
+Chicken 65 Quesadilla,380,18,30,22,Indulgence,Indian,None,3,2,15,8,2,2
+Vada Pav Sliders,320,10,35,15,Indulgence,Street Food,None,4,2,15,6,2,2
+Bhel Puri Salad,200,5,25,10,Indulgence,Street Food,None,3,2,10,4,1,1
+Masala Maggi Waffles,250,6,30,12,Indulgence,Indian,None,2,4,15,2,1,1
+Gulab Jamun,150,2,20,8,Indulgence,Sweets,None,15,1,5,2,1,1
+Jalebi,200,1,30,10,Indulgence,Sweets,None,20,1,5,2,1,1
+Rasgulla,100,2,25,1,Indulgence,Sweets,None,18,1,5,2,1,1
+Kaju Katli,180,4,15,12,Indulgence,Sweets,None,12,2,5,2,1,1
+Mysore Pak,250,5,30,15,Indulgence,Sweets,None,25,2,5,2,1,1
+Rasmalai,180,5,20,10,Indulgence,Sweets,None,22,1,5,2,1,1
+Barfi,120,3,15,8,Indulgence,Sweets,None,14,1,5,2,1,1
+Sandesh,100,2,18,5,Indulgence,Sweets,None,12,1,5,2,1,1
+Besan Ladoo,160,3,20,8,Indulgence,Sweets,None,16,2,5,2,1,1
+Peda,140,2,25,6,Indulgence,Sweets,None,18,1,5,2,1,1
+Rabri,180,4,25,10,Indulgence,Sweets,None,15,1,5,2,1,1
+Kalaadi,160,8,10,12,Indulgence,Indian,None,10,2,8,4,2,2
+Kesar Peda,200,3,30,8,Indulgence,Sweets,None,20,2,5,2,1,1
+Coconut Ladoo,150,2,20,8,Indulgence,Sweets,None,18,1,5,2,1,1
+Cham Cham,180,2,30,10,Indulgence,Sweets,None,20,1,5,2,1,1
+Shrikhand,120,5,15,6,Indulgence,Sweets,None,14,1,5,2,1,1
+Balushahi,220,3,25,12,Indulgence,Sweets,None,22,1,5,2,1,1
+Kaju Anjeer Roll,250,6,20,15,Indulgence,Sweets,None,18,2,5,2,1,1
+Gajar Halwa,200,3,25,10,Indulgence,Sweets,None,15,2,5,2,1,1
+Chhena Poda,180,4,20,8,Indulgence,Sweets,None,18,1,5,2,1,1
+Modak,120,2,25,5,Indulgence,Sweets,None,15,1,5,2,1,1
+Malpua,180,3,30,10,Indulgence,Sweets,None,20,1,5,2,1,1
+Petha,150,1,35,5,Indulgence,Sweets,None,18,1,5,2,1,1
+Ragi Ladoo,160,4,20,8,Indulgence,Sweets,None,12,2,5,2,1,1
+Kaju Roll,200,5,15,12,Indulgence,Sweets,None,18,2,5,2,1,1
+Gond Ke Ladoo,220,3,25,10,Indulgence,Sweets,None,22,1,5,2,1,1
+Ghevar,250,4,30,15,Indulgence,Sweets,None,20,1,5,2,1,1
+Basundi,180,5,20,8,Indulgence,Sweets,None,14,1,5,2,1,1
+Puran Poli,200,3,25,10,Indulgence,Sweets,None,15,2,5,2,1,1
+Chana Dal Halwa,220,4,30,12,Indulgence,Sweets,None,18,1,5,2,1,1
+Kalakand,180,6,20,10,Indulgence,Sweets,None,16,1,5,2,1,1
+Mawa Kachori,250,5,30,12,Indulgence,Sweets,None,20,2,5,2,1,1
+Raj Bhog,220,3,25,12,Indulgence,Sweets,None,18,1,5,2,1,1
+Gulab Jamun Cheesecake,300,8,35,15,Indulgence,Sweets,None,25,2,5,2,1,1
+Kaju Malai Peda,200,4,25,10,Indulgence,Sweets,None,18,2,5,2,1,1
+Cham Cham Cupcakes,180,3,20,8,Indulgence,Sweets,None,15,1,5,2,1,1
+Mysore Pak Ice Cream,250,5,30,12,Indulgence,Sweets,None,22,1,5,2,1,1
+Gajar Ki Kheer,150,3,20,6,Indulgence,Sweets,None,14,1,5,2,1,1
+Malai Sandwich,200,4,25,8,Indulgence,Sweets,None,18,2,5,2,1,1
+Gond Ke Ladoo,220,5,30,10,Indulgence,Sweets,None,20,1,5,2,1,1
