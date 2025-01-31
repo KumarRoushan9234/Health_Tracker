@@ -4,7 +4,7 @@ from main_diertary_recomendation import dietary_recomendation
 from main_calorie_tracker import calorie_tracker
 
 def main():
-    # st.title("Health Recommendation App")
+    st.title("Health Recommendation App")
 
     page = st.sidebar.selectbox("Select a page", ["Home Page", "Calorie Tracker", "Dietary Recommendation","Exercise Recomendation"])
     if 'total_cal' not in st.session_state:
